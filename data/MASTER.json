@@ -1,0 +1,1569 @@
+{
+  "version": 1,
+  "layers": {
+    "vectorLayer": {
+      "id": "1114",
+      "name": "vector",
+      "type": "vector",
+      "width": 354,
+      "height": 421,
+      "children": [
+        {
+          "id": "1115",
+          "name": "state0",
+          "type": "group",
+          "children": [
+            {
+              "id": "1116",
+              "name": "letter_e_0",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1117",
+                  "name": "path",
+                  "type": "path",
+                  "pathData": "M 0 2.04 L 5 2.04 L 5 36.96 L 35.58 36.96 L 5 36.96 L 5 67.04 L 0 67.04",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1118",
+                  "name": "path_1",
+                  "type": "path",
+                  "pathData": "M 18.58 36.96 L 18.58 2 L 53.5 2 L 53.5 7",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1119",
+                  "name": "path_2",
+                  "type": "path",
+                  "pathData": "M 18.6 67 L 18.6 37",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1120",
+                  "name": "path_20",
+                  "type": "path",
+                  "pathData": "M 0 67 L 53.5 67 L 53.5 62",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                }
+              ]
+            },
+            {
+              "id": "1121",
+              "name": "letter_q",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1122",
+                  "name": "path_3",
+                  "type": "path",
+                  "pathData": "M 117.96 61.93 C 126.84 56.39 133.25 45.7 133.25 34.5 C 133.25 16.71 118.95 2.26 101.21 2.01 L 101.21 66.99",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1123",
+                  "name": "path_4",
+                  "type": "path",
+                  "pathData": "M 99.23 66.92 L 117.63 66.92 L 117.63 36.05",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1124",
+                  "name": "path_5",
+                  "type": "path",
+                  "pathData": "M 122.63 36.05 L 112.63 36.05",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1125",
+                  "name": "path_9",
+                  "type": "path",
+                  "pathData": "M 101.21 2 L 96.21 2",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1126",
+                  "name": "path_10",
+                  "type": "path",
+                  "pathData": "M 68.25 34.5 C 68.25 47.62 76.02 58.91 87.21 64.05 L 87.21 4.95 C 76.03 10.09 68.25 21.38 68.25 34.5 Z",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1127",
+              "name": "letter_u_0",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1128",
+                  "name": "path_12_stays",
+                  "type": "path",
+                  "pathData": "M 153.69 44.71 L 153.69 2 L 148.69 2",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1129",
+                  "name": "path_6",
+                  "type": "path",
+                  "pathData": "M 153.69 44.71 C 153.69 54.2 159.62 62.31 167.98 65.52 L 167.98 2 L 172.98 2",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1130",
+                  "name": "path_7",
+                  "type": "path",
+                  "pathData": "M 203.27 2 L 183.98 2 L 183.98 65.52 C 192.34 62.3 198.27 54.2 198.27 44.71",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1131",
+                  "name": "path_11",
+                  "type": "path",
+                  "pathData": "M 203.27 2 L 198.27 2 L 198.27 44.71",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                }
+              ]
+            },
+            {
+              "id": "1132",
+              "name": "letter_a_0",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1133",
+                  "name": "path_8",
+                  "type": "path",
+                  "pathData": "M 246.1 2 L 231.4 37 L 266.6 36.7 L 257 13.9 L 247.5 36.7",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1134",
+                  "name": "path_12",
+                  "type": "path",
+                  "pathData": "M 218.9 67 L 231.4 37 L 266.6 36.7 L 278.6 67",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1135",
+                  "name": "path_39",
+                  "type": "path",
+                  "pathData": "M 247.5 36.7 L 234.9 67",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1136",
+                  "name": "path_21",
+                  "type": "path",
+                  "pathData": "M 241.1 2 L 257.1 2",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1137",
+                  "name": "path_22",
+                  "type": "path",
+                  "pathData": "M 213.9 67 L 218.9 67",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1138",
+                  "name": "path_23",
+                  "type": "path",
+                  "pathData": "M 234.9 67 L 239.9 67",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1139",
+                  "name": "path_24",
+                  "type": "path",
+                  "pathData": "M 273.6 67 L 283.6 67",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1140",
+                  "name": "path_25",
+                  "type": "path",
+                  "pathData": "M 234.9 67 L 218.9 67",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                }
+              ]
+            },
+            {
+              "id": "1141",
+              "name": "letter_l_",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1142",
+                  "name": "path_40",
+                  "type": "path",
+                  "pathData": "M 299.3 2 L 304.1 2 L 304.1 67.1 L 318.1 67 L 318.1 2 L 323.9 2",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1143",
+                  "name": "path_41",
+                  "type": "path",
+                  "pathData": "M 299.3 67 L 352.8 67 L 352.8 62",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                }
+              ]
+            },
+            {
+              "id": "1144",
+              "name": "letter_p",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1145",
+                  "name": "path_48",
+                  "type": "path",
+                  "pathData": "M 94.4 155 L 94.4 90 L 94.4 155",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1146",
+                  "name": "path_44",
+                  "type": "path",
+                  "pathData": "M 89.4 90 L 118.9 90 C 136.4 90 136.4 107.5 136.4 107.5 C 136.4 117.2 128.6 125 118.9 125 L 94.4 125 L 94.4 90",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1147",
+                  "name": "path_42",
+                  "type": "path",
+                  "pathData": "M 96.1 90 L 89.4 90",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1148",
+                  "name": "path_47",
+                  "type": "path",
+                  "pathData": "M 99.4 155 L 89.4 155",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                }
+              ]
+            },
+            {
+              "id": "1149",
+              "name": "letter_a2",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1150",
+                  "name": "path_35",
+                  "type": "path",
+                  "pathData": "M 168.4 90 L 153.8 125 L 188.9 124.7 L 179.4 101.9 L 169.9 124.7",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1151",
+                  "name": "path_45",
+                  "type": "path",
+                  "pathData": "M 141.3 155 L 153.8 125 L 188.9 124.7 L 201.6 155",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1152",
+                  "name": "path_46",
+                  "type": "path",
+                  "pathData": "M 169.9 124.7 L 157.2 155",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1153",
+                  "name": "path_49",
+                  "type": "path",
+                  "pathData": "M 163.4 90 L 179.4 90",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1154",
+                  "name": "path_50",
+                  "type": "path",
+                  "pathData": "M 157.2 155 L 141.3 155",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1155",
+                  "name": "path_51",
+                  "type": "path",
+                  "pathData": "M 136.3 155 L 141.3 155",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1156",
+                  "name": "path_52",
+                  "type": "path",
+                  "pathData": "M 157.2 155 L 162.2 155",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1157",
+                  "name": "path_53",
+                  "type": "path",
+                  "pathData": "M 196 155 L 206 155",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                }
+              ]
+            },
+            {
+              "id": "1158",
+              "name": "letter_y",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1159",
+                  "name": "path_54",
+                  "type": "path",
+                  "pathData": "M 219.3 155 L 224.4 155 L 224.4 131.9 L 206.9 90 L 223.4 90 L 240.8 131.9 L 240.8 155 L 245.9 155",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1160",
+                  "name": "path_55",
+                  "type": "path",
+                  "pathData": "M 258.3 90 L 240.8 131.9",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1161",
+                  "name": "path_56",
+                  "type": "path",
+                  "pathData": "M 202.8 90 L 229.3 90",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                },
+                {
+                  "id": "1162",
+                  "name": "path_57",
+                  "type": "path",
+                  "pathData": "M 252.5 90 L 262.5 90",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel"
+                }
+              ]
+            },
+            {
+              "id": "1163",
+              "name": "letter_f",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1164",
+                  "name": "path_43",
+                  "type": "path",
+                  "pathData": "M 100 243.2 L 95.1 243.2 L 95.1 178.2 L 130 178.2 L 130 183.1",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1165",
+                  "name": "path_58",
+                  "type": "path",
+                  "pathData": "M 76.5 243.2 L 81.5 243.2 L 81.5 213.1 L 112.1 213.1 L 81.5 213.1 L 81.5 178.2 L 76.5 178.2 L 130 178.2",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel",
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1166",
+              "name": "letter_o",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1167",
+                  "name": "path_26",
+                  "type": "path",
+                  "pathData": "M 140 210.5 C 140 223.6 147.8 234.9 159 240.1 L 159 181 C 147.7 186.1 140 197.4 140 210.5 Z",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1168",
+                  "name": "path_59",
+                  "type": "path",
+                  "pathData": "M 205 210.5 C 205 192.7 190.7 178.3 173 178 L 173 243 C 190.7 242.7 205 228.3 205 210.5 Z",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1169",
+                  "name": "path_60",
+                  "type": "path",
+                  "pathData": "M 172.9 178 L 167.9 178",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1170",
+                  "name": "path_61",
+                  "type": "path",
+                  "pathData": "M 172.9 243 L 167.9 243",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1171",
+              "name": "letter_r1",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1172",
+                  "name": "path_27",
+                  "type": "path",
+                  "pathData": "M 271.7 243.2 L 249.3 212.9 L 224.8 212.9 L 224.8 178 L 224.8 234.5",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel",
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1173",
+                  "name": "path_28",
+                  "type": "path",
+                  "pathData": "M 243.8 178 L 219.8 178",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1174",
+                  "name": "path_62",
+                  "type": "path",
+                  "pathData": "M 224.8 178 L 224.8 213 L 249.3 213 C 259 213 266.8 205.1 266.8 195.5 C 266.8 185.8 258.9 178 249.3 178 L 219.8 178",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1175",
+                  "name": "path_63",
+                  "type": "path",
+                  "pathData": "M 224.8 243.2 L 224.8 178.1",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1176",
+                  "name": "path_64",
+                  "type": "path",
+                  "pathData": "M 229.8 243.2 L 219.8 243.2",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1177",
+                  "name": "path_65",
+                  "type": "path",
+                  "pathData": "M 276.6 243.2 L 266.6 243.2",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1178",
+              "name": "letter_e2",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1179",
+                  "name": "path_66",
+                  "type": "path",
+                  "pathData": "M 0 266 L 5 266 L 5 301 L 35.6 301 L 5 301 L 5 331 L 0 331",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel",
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1180",
+                  "name": "path_67",
+                  "type": "path",
+                  "pathData": "M 18.6 301 L 18.6 266 L 53.5 266 L 53.5 271",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1181",
+                  "name": "path_68",
+                  "type": "path",
+                  "pathData": "M 18.6 331 L 18.6 301",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1182",
+                  "name": "path_69",
+                  "type": "path",
+                  "pathData": "M 0 331 L 53.5 331 L 53.5 326",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1183",
+              "name": "letter_q2",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1184",
+                  "name": "path_71",
+                  "type": "path",
+                  "pathData": "M 122.6 300 L 112.6 300",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1185",
+                  "name": "path_72",
+                  "type": "path",
+                  "pathData": "M 101.2 331 L 96.2 331",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1186",
+                  "name": "path_70",
+                  "type": "path",
+                  "pathData": "M 101.2 266 L 96.2 266",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1187",
+                  "name": "path_14",
+                  "type": "path",
+                  "pathData": "M 117.6 326.3 C 126.9 320.6 133.2 310.3 133.2 298.5 C 133.2 280.7 118.9 266.3 101.2 266 L 101.2 331",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1188",
+                  "name": "path_15",
+                  "type": "path",
+                  "pathData": "M 101.2 266 L 101.2 330.9 L 117.6 330.9 L 117.6 300",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1189",
+                  "name": "path_13",
+                  "type": "path",
+                  "pathData": "M 68.2 298.5 C 68.2 311.6 76 322.9 87.2 328 L 87.2 269 C 76 274.1 68.2 285.4 68.2 298.5 Z",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1190",
+              "name": "letter_u2",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1191",
+                  "name": "path_16",
+                  "type": "path",
+                  "pathData": "M 153.7 308.7 C 153.7 318.2 159.6 326.3 168 329.5 L 168 266 L 173 266",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1192",
+                  "name": "path_17",
+                  "type": "path",
+                  "pathData": "M 203.3 266 L 184 266 L 184 329.5 C 192.4 326.3 198.3 318.2 198.3 308.7",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1193",
+                  "name": "path_73",
+                  "type": "path",
+                  "pathData": "M 153.7 308.7 L 153.7 266 L 148.7 266",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1194",
+                  "name": "path_74",
+                  "type": "path",
+                  "pathData": "M 203.3 266 L 198.3 266 L 198.3 308.7",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1195",
+              "name": "letter_a3",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1196",
+                  "name": "path_18",
+                  "type": "path",
+                  "pathData": "M 246.1 266 L 231.5 301 L 266.6 300.7 L 257.1 277.9 L 247.6 300.7",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1197",
+                  "name": "path_19",
+                  "type": "path",
+                  "pathData": "M 241.1 266 L 257.1 266",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1198",
+                  "name": "path_75",
+                  "type": "path",
+                  "pathData": "M 214 331 L 219 331",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1199",
+                  "name": "path_76",
+                  "type": "path",
+                  "pathData": "M 234.9 331 L 239.9 331",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1200",
+                  "name": "path_77",
+                  "type": "path",
+                  "pathData": "M 273.7 331 L 283.7 331",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1201",
+                  "name": "path_78",
+                  "type": "path",
+                  "pathData": "M 247.6 300.7 L 234.9 331",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1202",
+                  "name": "path_79",
+                  "type": "path",
+                  "pathData": "M 234.9 331 L 219 331",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1203",
+                  "name": "path_80",
+                  "type": "path",
+                  "pathData": "M 219 331 L 231.5 301 L 266.6 300.7 L 279.3 331",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1204",
+              "name": "letter_l2",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1205",
+                  "name": "path_81",
+                  "type": "path",
+                  "pathData": "M 299.3 266 L 304.1 266 L 304.1 331 L 318.1 331 L 318.1 266 L 323.9 266",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel",
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1206",
+                  "name": "path_82",
+                  "type": "path",
+                  "pathData": "M 299.3 331 L 352.8 331 L 352.8 326",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1207",
+              "name": "letter_w",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1208",
+                  "name": "path_34",
+                  "type": "path",
+                  "pathData": "M 29.36 354 L 34.36 354 L 34.36 419 L 62.36 419 L 88.55 354 L 49.17 354 L 49.17 381.92",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1209",
+                  "name": "path_33",
+                  "type": "path",
+                  "pathData": "M 70.06 399.88 L 78.06 419 L 103.18 419 L 103.18 354 L 108.18 354",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4
+                },
+                {
+                  "id": "1210",
+                  "name": "path_32",
+                  "type": "path",
+                  "pathData": "M 54.17 381.83 L 44.17 381.83",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinecap": "square"
+                }
+              ]
+            },
+            {
+              "id": "1211",
+              "name": "letter_o2",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1212",
+                  "name": "path_84",
+                  "type": "path",
+                  "pathData": "M 184.1 386.5 C 184.1 368.7 169.8 354.3 152.1 354 L 152.1 419 C 169.8 418.7 184.1 404.3 184.1 386.5 Z",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1213",
+                  "name": "path_29",
+                  "type": "path",
+                  "pathData": "M 119.1 386.5 C 119.1 399.6 126.9 410.9 138.1 416.1 L 138.1 357 C 126.8 362.1 119.1 373.4 119.1 386.5 Z",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1214",
+                  "name": "path_83",
+                  "type": "path",
+                  "pathData": "M 152 354 L 147 354",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1215",
+                  "name": "path_85",
+                  "type": "path",
+                  "pathData": "M 152 419 L 147 419",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1216",
+              "name": "letter_r2",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1217",
+                  "name": "path_30",
+                  "type": "path",
+                  "pathData": "M 248.9 419.3 L 226.5 389 L 202 389 L 202 354.1 L 202 410.6",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeLinejoin": "bevel",
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1218",
+                  "name": "path_31",
+                  "type": "path",
+                  "pathData": "M 202 354.1 L 197 354.1",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "743689",
+                  "name": "path_86",
+                  "type": "path",
+                  "pathData": "M 202 354.1 L 202 389.1 L 226.5 389.1 C 236.2 389.1 244 381.2 244 371.6 C 244 361.9 236.1 354.1 226.5 354.1 L 197 354.1",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1220",
+                  "name": "path_87",
+                  "type": "path",
+                  "pathData": "M 202 419.3 L 202 354.2",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1221",
+                  "name": "path_88",
+                  "type": "path",
+                  "pathData": "M 207 419.3 L 197 419.3",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1222",
+                  "name": "path_89",
+                  "type": "path",
+                  "pathData": "M 253.8 419.3 L 243.8 419.3",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            },
+            {
+              "id": "1223",
+              "name": "letter_k",
+              "type": "group",
+              "children": [
+                {
+                  "id": "1028297",
+                  "name": "path_36",
+                  "type": "path",
+                  "pathData": "M 267.6 354 L 272.6 354 L 272.6 419",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1028489",
+                  "name": "path_37",
+                  "type": "path",
+                  "pathData": "M 286.6 419 L 286.6 354 L 269.2 354",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1042750",
+                  "name": "path_90",
+                  "type": "path",
+                  "pathData": "M 320.8 354 L 315.8 354 L 304.1 382 L 304.1 419 L 267.6 419",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                },
+                {
+                  "id": "1089561",
+                  "name": "path_38",
+                  "type": "path",
+                  "pathData": "M 304.1 382 L 319.6 419",
+                  "strokeColor": "#ee255c",
+                  "strokeWidth": 4,
+                  "strokeMiterLimit": 10
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "hiddenLayerIds": []
+  },
+  "timeline": {
+    "animation": {
+      "id": "1227",
+      "name": "anim",
+      "duration": 300,
+      "blocks": [
+        {
+          "id": "1228",
+          "layerId": "1122",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 117.96 61.93 C 126.84 56.39 133.25 45.7 133.25 34.5 C 133.25 16.71 118.95 2.26 101.21 2.01 L 101.21 66.99",
+          "toValue": "M 125.87 55.13 C 133.25 46.13 135.54 33.45 130.74 21.96 C 123.87 5.54 105.11 -2.26 88.65 4.35 L 114.84 68.12"
+        },
+        {
+          "id": "1229",
+          "layerId": "1123",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 117.63 36.05 L 117.63 41.195 L 117.63 46.34 L 117.63 56.63 L 117.63 66.92 L 111.497 66.92 L 105.363 66.92 L 99.23 66.92",
+          "toValue": "M 117.85 35.95 L 121.095 43.708 L 124.34 51.465 L 127.585 59.222 L 130.83 66.98 L 124.91 66.98 L 118.99 66.98 L 113.07 66.98"
+        },
+        {
+          "id": "1230",
+          "layerId": "1125",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 101.21 2 L 96.21 2",
+          "toValue": "M 88.64 4.34 L 84.03 6.27"
+        },
+        {
+          "id": "1231",
+          "layerId": "1126",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 68.25 34.5 C 68.25 47.62 76.02 58.91 87.21 64.05 L 87.21 4.95 C 76.03 10.09 68.25 21.38 68.25 34.5 Z",
+          "toValue": "M 70.78 47.04 C 75.84 59.14 87.37 66.56 99.68 66.98 L 76.88 12.47 C 68.53 21.52 65.71 34.94 70.78 47.04 Z"
+        },
+        {
+          "id": "1232",
+          "layerId": "1129",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 153.69 44.71 C 153.69 54.2 159.62 62.31 167.98 65.52 L 167.98 2 L 172.98 2",
+          "toValue": "M 153.69 44.71 C 153.69 49.98 155.52 54.82 158.58 58.64 L 182.27 2 L 177.27 2"
+        },
+        {
+          "id": "1233",
+          "layerId": "1130",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 198.27 44.71 C 198.27 54.2 192.34 62.3 183.98 65.52 L 183.98 2 L 203.27 2",
+          "toValue": "M 198.27 44.71 C 197.62 69.88 172.8 66.83 171.29 66.51 L 198.27 2 L 203.27 2"
+        },
+        {
+          "id": "1234",
+          "layerId": "1117",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 0 2.04 L 5 2.04 L 5 36.96 L 35.58 36.96 L 35.58 36.96 L 5 36.96 L 5 67.04 L 0 67.04",
+          "toValue": "M 0 2 L 5 2 L 5 29.92 L 35.58 29.92 L 35.58 43.92 L 5 43.92 L 5 67 L 0 67"
+        },
+        {
+          "id": "1235",
+          "layerId": "1118",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 18.58 36.96 L 18.58 2 L 53.5 2 L 53.5 7",
+          "toValue": "M 18.6 30 L 18.6 2 L 53.5 2 L 53.5 7"
+        },
+        {
+          "id": "1236",
+          "layerId": "1119",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 18.6 67 L 18.6 37",
+          "toValue": "M 18.6 67 L 18.6 44"
+        },
+        {
+          "id": "1237",
+          "layerId": "1133",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 246.1 2 L 231.4 37 L 266.6 36.7 L 257 13.9 L 247.5 36.7",
+          "toValue": "M 246.1 2 L 234.4 29.8 L 263.7 29.8 L 257 13.9 L 250.4 29.8"
+        },
+        {
+          "id": "1238",
+          "layerId": "1134",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 218.9 67 L 231.4 37 L 266.6 36.7 L 278.6 67",
+          "toValue": "M 218.9 67 L 228.6 43.8 L 269.6 43.8 L 279.2 67"
+        },
+        {
+          "id": "1239",
+          "layerId": "1135",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 247.5 36.7 L 234.9 67",
+          "toValue": "M 244.5 43.8 L 234.9 67"
+        },
+        {
+          "id": "1240",
+          "layerId": "1142",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 299.3 2 L 304.1 2 L 304.1 67.1 L 318.1 67 L 318.1 2 L 323.9 2",
+          "toValue": "M 299.3 2 L 304.3 2 L 304.3 33.5 L 318.2 67 L 318.1 2 L 323.9 2"
+        },
+        {
+          "id": "1241",
+          "layerId": "1150",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 168.4 90 L 153.8 125 L 188.9 124.7 L 179.4 101.9 L 169.9 124.7",
+          "toValue": "M 168.4 90 L 156.8 117.8 L 186.1 117.8 L 179.4 101.9 L 172.8 117.8"
+        },
+        {
+          "id": "1242",
+          "layerId": "1151",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 141.3 155 L 153.8 125 L 188.9 124.7 L 201.6 155",
+          "toValue": "M 141.3 155 L 150.9 131.8 L 191.9 131.8 L 201.6 155"
+        },
+        {
+          "id": "1243",
+          "layerId": "1152",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 169.9 124.7 L 157.2 155",
+          "toValue": "M 166.9 131.8 L 157.2 155"
+        },
+        {
+          "id": "1244",
+          "layerId": "1159",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 219.3 155 L 224.4 155 L 224.4 131.9 L 215.65 110.95 L 206.9 90 L 223.4 90 L 240.8 131.9 L 240.8 155 L 245.9 155",
+          "toValue": "M 219.3 155 L 224.4 155 L 224.4 131.9 L 215.1 109.7 L 223.3 90 L 223.4 90 L 240.8 131.9 L 240.8 155 L 245.8 155"
+        },
+        {
+          "id": "1245",
+          "layerId": "1145",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 94.4 155 L 94.4 90 L 94.4 122.857 L 94.4 133.451 L 94.4 155",
+          "toValue": "M 94.4 155 L 94.4 90 L 109.9 118 L 102.15 136.5 L 94.4 155"
+        },
+        {
+          "id": "1246",
+          "layerId": "1146",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 89.4 90 L 118.9 90 C 136.4 90 136.4 107.5 136.4 107.5 C 136.4 117.2 128.6 125 118.9 125 L 94.4 125 L 94.4 90",
+          "toValue": "M 89.4 90 L 122 90 C 140.4 90 139.8 99.6 140.1 104 C 140.4 108.4 136.6 116.7 129.1 117.7 L 126.1 118 L 109.9 90"
+        },
+        {
+          "id": "1247",
+          "layerId": "1165",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 76.5 243.2 L 81.5 243.2 L 81.5 213.1 L 112.1 213.1 L 112.1 213.1 L 81.5 213.1 L 81.5 178.2 L 76.5 178.2 L 130 178.2",
+          "toValue": "M 76.5 243.2 L 81.5 243.2 L 81.5 206.1 L 112.1 206.1 L 112.1 220.1 L 81.5 220.1 L 81.5 178.2 L 76.5 178.2 L 130 178.2"
+        },
+        {
+          "id": "1248",
+          "layerId": "1167",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 140 210.5 C 140 223.6 147.8 234.9 159 240.1 L 159 181 C 147.7 186.1 140 197.4 140 210.5 Z",
+          "toValue": "M 142.5 223 C 147.6 235.1 159.1 242.5 171.4 242.9 L 148.6 188.4 C 140.2 197.5 137.4 210.9 142.5 223 Z"
+        },
+        {
+          "id": "1249",
+          "layerId": "1168",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 205 210.5 C 205 192.7 190.7 178.3 173 178 L 173 243 C 190.7 242.7 205 228.3 205 210.5 Z",
+          "toValue": "M 202.5 198 C 195.6 181.6 176.9 173.8 160.4 180.4 L 185.5 240.3 C 201.7 233.2 209.3 214.4 202.5 198 Z"
+        },
+        {
+          "id": "1250",
+          "layerId": "1169",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 172.9 178 L 167.9 178",
+          "toValue": "M 160.4 180.3 L 155.8 182.3"
+        },
+        {
+          "id": "1251",
+          "layerId": "1170",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 172.9 243 L 167.9 243",
+          "toValue": "M 185.4 240.3 L 180.8 242.2"
+        },
+        {
+          "id": "1252",
+          "layerId": "1172",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 224.8 234.5 L 224.8 178 L 224.8 212.9 L 249.3 212.9 L 271.7 243.2",
+          "toValue": "M 224.8 234.5 L 224.8 178 L 242.4 220 L 262 220 L 271.7 243.2"
+        },
+        {
+          "id": "1253",
+          "layerId": "1173",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 224.8 178 L 219.8 178",
+          "toValue": "M 252.8 178 L 219.8 178"
+        },
+        {
+          "id": "1254",
+          "layerId": "1174",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 219.8 178 C 229.633 178 239.467 178 249.3 178 C 258.9 178 266.8 185.8 266.8 195.5 C 266.8 205.1 259 213 249.3 213 L 224.8 213 L 224.8 178",
+          "toValue": "M 252.8 178 C 256.65 178 260.15 179.575 262.688 182.113 C 265.225 184.65 266.8 188.15 266.8 192 C 266.8 199.7 260.5 206 252.8 206 L 252.5 206 L 240.8 178"
+        },
+        {
+          "id": "1255",
+          "layerId": "1179",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 0 266 L 5 266 L 5 301 L 35.6 301 L 35.6 301 L 5 301 L 5 331 L 0 331",
+          "toValue": "M 0 266 L 5 266 L 5 293.9 L 35.6 293.9 L 35.6 307.9 L 5 307.9 L 5 331 L 0 331"
+        },
+        {
+          "id": "1256",
+          "layerId": "1180",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 18.6 301 L 18.6 266 L 53.5 266 L 53.5 271",
+          "toValue": "M 18.6 294 L 18.6 266 L 53.5 266 L 53.5 271"
+        },
+        {
+          "id": "1257",
+          "layerId": "1181",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 18.6 331 L 18.6 301",
+          "toValue": "M 18.6 331 L 18.6 308"
+        },
+        {
+          "id": "1258",
+          "layerId": "1189",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 68.2 298.5 C 68.2 311.6 76 322.9 87.2 328 L 87.2 269 C 76 274.1 68.2 285.4 68.2 298.5 Z",
+          "toValue": "M 70.8 311 C 75.9 323.1 87.4 330.5 99.7 330.9 L 76.9 276.4 C 68.5 285.5 65.7 298.9 70.8 311 Z"
+        },
+        {
+          "id": "1259",
+          "layerId": "1187",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 117.6 326.3 C 126.9 320.6 133.2 310.3 133.2 298.5 C 133.2 280.7 118.9 266.3 101.2 266 L 101.2 331",
+          "toValue": "M 125.9 319.1 C 133.3 310.1 135.6 297.4 130.8 285.9 C 123.9 269.5 105.2 261.7 88.7 268.3 L 113.8 328.2"
+        },
+        {
+          "id": "1260",
+          "layerId": "1186",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 101.2 266 L 96.2 266",
+          "toValue": "M 88.6 268.3 L 84 270.3"
+        },
+        {
+          "id": "1261",
+          "layerId": "1185",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 101.2 331 L 96.2 331",
+          "toValue": "M 122.3 331 L 117.3 331"
+        },
+        {
+          "id": "1262",
+          "layerId": "1188",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 101.2 266 L 101.2 330.9 L 117.6 330.9 L 117.6 300",
+          "toValue": "M 88.6 268.6 L 115 331 L 130.8 331 L 117.8 300"
+        },
+        {
+          "id": "1263",
+          "layerId": "1191",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 153.7 308.7 C 153.7 318.2 159.6 326.3 168 329.5 L 168 266 L 173 266",
+          "toValue": "M 153.7 308.7 C 153.7 314 155.5 318.8 158.6 322.6 L 182.3 266 L 177.3 266"
+        },
+        {
+          "id": "1264",
+          "layerId": "1192",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 203.3 266 L 184 266 L 184 329.5 C 184 329.5 184 329.5 184 329.5 C 192.4 326.3 198.3 318.2 198.3 308.7",
+          "toValue": "M 203.3 266 L 198.3 266 L 171.3 330.5 C 172.8 330.8 174.4 331 176 331 C 188.3 331 198.3 321 198.3 308.7"
+        },
+        {
+          "id": "1265",
+          "layerId": "1196",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 246.1 266 L 231.5 301 L 266.6 300.7 L 257.1 277.9 L 247.6 300.7",
+          "toValue": "M 246.1 266 L 234.5 293.8 L 263.8 293.8 L 257.1 277.9 L 250.5 293.8"
+        },
+        {
+          "id": "1266",
+          "layerId": "1201",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 247.6 300.7 L 234.9 331",
+          "toValue": "M 244.6 307.8 L 234.9 331"
+        },
+        {
+          "id": "1267",
+          "layerId": "1203",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 219 331 L 231.5 301 L 266.6 300.7 L 279.3 331",
+          "toValue": "M 219 331 L 228.6 307.8 L 269.6 307.8 L 279.3 331"
+        },
+        {
+          "id": "1268",
+          "layerId": "1205",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 299.3 266 L 304.1 266 L 304.1 331 L 318.1 331 L 318.1 266 L 323.9 266",
+          "toValue": "M 299.3 266 L 304.3 266 L 304.3 297.5 L 318.2 331 L 318.1 266 L 323.9 266"
+        },
+        {
+          "id": "1269",
+          "layerId": "1208",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 29.36 354 L 34.36 354 L 34.36 419 L 62.36 419 L 88.55 354 L 49.17 354 L 49.17 381.92",
+          "toValue": "M 25.5 354 L 30.5 354 L 57.7 419 L 62.7 419 L 88.9 354 L 46.5 354 L 58.2 381.9"
+        },
+        {
+          "id": "1270",
+          "layerId": "1209",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 70.06 399.88 L 78.06 419 L 103.18 419 L 103.18 354 L 108.18 354",
+          "toValue": "M 70.4 399.9 L 78.4 419 L 83.4 419 L 109.6 354 L 114.6 354"
+        },
+        {
+          "id": "1271",
+          "layerId": "1210",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 54.17 381.83 L 44.17 381.83",
+          "toValue": "M 64.2 381.9 L 52.2 381.9"
+        },
+        {
+          "id": "1272",
+          "layerId": "1212",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 184.1 386.5 C 184.1 368.7 169.8 354.3 152.1 354 L 152.1 419 C 169.8 418.7 184.1 404.3 184.1 386.5 Z",
+          "toValue": "M 181.6 374 C 174.7 357.6 156 349.8 139.5 356.4 L 164.6 416.3 C 180.8 409.2 188.4 390.4 181.6 374 Z"
+        },
+        {
+          "id": "1273",
+          "layerId": "1213",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 119.1 386.5 C 119.1 399.6 126.9 410.9 138.1 416.1 L 138.1 357 C 126.8 362.1 119.1 373.4 119.1 386.5 Z",
+          "toValue": "M 121.6 399 C 126.7 411.1 138.2 418.5 150.5 418.9 L 127.7 364.4 C 119.3 373.5 116.5 386.9 121.6 399 Z"
+        },
+        {
+          "id": "1274",
+          "layerId": "1214",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 152 354 L 147 354",
+          "toValue": "M 139.5 356.3 L 134.9 358.3"
+        },
+        {
+          "id": "1275",
+          "layerId": "1215",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 152 419 L 147 419",
+          "toValue": "M 164.5 416.3 L 159.9 418.2"
+        },
+        {
+          "id": "1487",
+          "layerId": "1217",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 248.9 419.3 L 226.5 389 L 202 389 L 202 354.1 L 202 410.6",
+          "toValue": "M 248.9 419.3 L 239.1 396.1 L 219.5 396.1 L 202 354.1 L 202 410.6"
+        },
+        {
+          "id": "56064",
+          "layerId": "1218",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 202 354.1 L 197 354.1",
+          "toValue": "M 230 354.1 L 197 354.1"
+        },
+        {
+          "id": "786252",
+          "layerId": "743689",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 202 354.1 L 202 389.1 L 226.5 389.1 C 236.2 389.1 244 381.2 244 371.6 C 244 361.9 236.1 354.1 226.5 354.1 L 197 354.1",
+          "toValue": "M 218.2 354.1 L 229.6 381.2 L 230 382.1 C 239.1 381.4 243.6 376 244 368.1 C 244.4 359.7 238.2 354.7 230.5 354.1 L 229.7 354.1"
+        },
+        {
+          "id": "1028869",
+          "layerId": "1028489",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 286.6 419 L 286.6 354 L 269.2 354",
+          "toValue": "M 272.7 419 L 299.9 354 L 269.2 354"
+        },
+        {
+          "id": "1043140",
+          "layerId": "1042750",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 320.8 354 L 315.8 354 L 304.1 382 L 304.1 419 L 267.6 419",
+          "toValue": "M 320.8 354 L 315.8 354 L 302.2 386.5 L 288.6 419 L 267.6 419"
+        }
+      ]
+    }
+  }
+}
