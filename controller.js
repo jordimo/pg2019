@@ -42,7 +42,7 @@ function setState(idState) {
         for (var c in GROUPS[g]) {
             var ca = anime({
                 targets: c,
-                strokeColor : color,
+                strokecolor : color,
                 easing : 'easeOutQuad',
                 duration: 100
             })
