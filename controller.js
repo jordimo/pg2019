@@ -4,8 +4,12 @@
 
 var LAYERS_DICT = {};
 var STATES = {}
-
-
+var GROUPS = {}
+var STATE_COLORS = [
+    '#fc0',
+    '#cf0',
+    '#0fc'
+]
 
 function setState(idState) {
 
@@ -32,6 +36,20 @@ function setState(idState) {
 
     // change colors
 
+    var color = STATE_COLORS[idState]
+
+    for (var g in GROUPS) {
+        for (var c in GROUPS[g]) {
+            var ca = anime({
+                targets: c,
+                strokeColor : color,
+                easing : 'easeOutQuad',
+                duration: 100
+            })
+
+            console.log(c, ca)
+        }
+    }
 }
 
 function getJsonObject(url) {
@@ -56,15 +74,34 @@ function init(json_obj) {
     });
 
     // save 'name' by GROUPS
-    var jgroups = jsonQ(json_obj['layers']['vectorLayer'])
+    // 1. Get Group Names
     var JSON_groups = JSON_layers.find("type", function() {
-        return this === 'group'
-    }).value()
+        return this == 'group'
+    }).sibling('name').value()
+
+
+    console.log(JSON_groups)
+
+    // 2. Get Children names per group
+    for (var g of JSON_groups) 
+    {
+        var children = JSON_layers.find('name', function() {
+            return this == g
+        }).sibling('children').value()[0]
+
+        GROUPS[g] = [];
+
+        for (var c in children) {
+            GROUPS[g].push(children[c].name)            
+        }                
+    }
     
-    console.log(jgroups)
+    // console.log(GROUPS)
+
+    // -------------------------------------------------------------------------------------
 
     // and then get from timeline (endtime property / 100)
-
+    
     var JSON_states = json_obj['timeline']['animation']['blocks']    
     JSON_states.map(function(a) {
         var state = a.endTime/100;
