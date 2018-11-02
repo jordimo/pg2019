@@ -2,19 +2,19 @@
   "version": 1,
   "layers": {
     "vectorLayer": {
-      "id": "1545601",
+      "id": "1813236",
       "name": "vector",
       "type": "vector",
       "width": 401,
       "height": 421,
       "children": [
         {
-          "id": "1545602",
+          "id": "1813237",
           "name": "e0",
           "type": "group",
           "children": [
             {
-              "id": "1545603",
+              "id": "1813238",
               "name": "e0_0",
               "type": "path",
               "pathData": "M 46 2 L 51 2 L 51 37 L 81.6 37 L 81.6 36.9 L 51 36.9 L 51 67",
@@ -23,7 +23,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545604",
+              "id": "1813239",
               "name": "e0_1",
               "type": "path",
               "pathData": "M 46 67 L 99.5 67 L 99.5 62",
@@ -32,7 +32,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545605",
+              "id": "1813240",
               "name": "e0_2",
               "type": "path",
               "pathData": "M 64.6 37 L 64.6 2 L 99.5 2 L 99.5 7",
@@ -41,7 +41,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545606",
+              "id": "1813241",
               "name": "e0_3",
               "type": "path",
               "pathData": "M 64.6 67 L 64.6 37",
@@ -52,12 +52,12 @@
           ]
         },
         {
-          "id": "1545607",
+          "id": "1813242",
           "name": "q0",
           "type": "group",
           "children": [
             {
-              "id": "1545608",
+              "id": "1813243",
               "name": "q0_0",
               "type": "path",
               "pathData": "M 168.6 36 L 158.6 36",
@@ -66,7 +66,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545609",
+              "id": "1813244",
               "name": "q0_1",
               "type": "path",
               "pathData": "M 147.2 0 L 147.2 66.9 L 163.6 66.9 L 163.6 36",
@@ -75,7 +75,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545610",
+              "id": "1813245",
               "name": "q0_2",
               "type": "path",
               "pathData": "M 164.6 61.6 C 173.4 55.8 179.2 45.8 179.2 34.5 C 179.2 16.7 164.9 2.3 147.2 2",
@@ -84,7 +84,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545611",
+              "id": "1813246",
               "name": "q0_3",
               "type": "path",
               "pathData": "M 114.2 34.5 C 114.2 47.6 122 58.9 133.2 64.1 L 133.2 4.9 C 122 10.1 114.2 21.4 114.2 34.5 Z",
@@ -95,12 +95,12 @@
           ]
         },
         {
-          "id": "1545612",
+          "id": "1813247",
           "name": "u0",
           "type": "group",
           "children": [
             {
-              "id": "1545613",
+              "id": "1813248",
               "name": "u0_0",
               "type": "path",
               "pathData": "M 199.7 44.7 L 199.7 2 L 194.7 2",
@@ -109,7 +109,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545614",
+              "id": "1813249",
               "name": "u0_1",
               "type": "path",
               "pathData": "M 199.7 44.7 C 199.7 54.2 205.7 61.4 214.1 64.6 L 214 6.5 L 214 2 L 219 2",
@@ -118,16 +118,17 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545615",
+              "id": "1813250",
               "name": "u0_2",
               "type": "path",
               "pathData": "M 249.3 2 L 230 2 L 230 65.5 C 238.4 62.3 244.3 54.2 244.3 44.7",
               "strokeColor": "#ee255c",
               "strokeWidth": 4,
+              "strokeLinejoin": "bevel",
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545616",
+              "id": "1813251",
               "name": "u0_3",
               "type": "path",
               "pathData": "M 249.3 2 L 244.3 2 L 244.3 44.7",
@@ -138,12 +139,12 @@
           ]
         },
         {
-          "id": "1545617",
+          "id": "1813252",
           "name": "a0",
           "type": "group",
           "children": [
             {
-              "id": "1545618",
+              "id": "1813253",
               "name": "a0_0",
               "type": "path",
               "pathData": "M 287.1 2 L 303.1 2",
@@ -152,7 +153,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545619",
+              "id": "1813254",
               "name": "a0_1",
               "type": "path",
               "pathData": "M 280.9 67 L 285.9 67",
@@ -161,7 +162,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545620",
+              "id": "1813255",
               "name": "a0_2",
               "type": "path",
               "pathData": "M 319.6 67 L 329.6 67",
@@ -170,7 +171,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545621",
+              "id": "1813256",
               "name": "a0_3",
               "type": "path",
               "pathData": "M 280.9 67 L 264.9 67",
@@ -179,7 +180,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545622",
+              "id": "1813257",
               "name": "a0_4",
               "type": "path",
               "pathData": "M 259.9 67 L 264.9 67",
@@ -188,7 +189,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545623",
+              "id": "1813258",
               "name": "a0_5",
               "type": "path",
               "pathData": "M 292.1 2 L 277.4 37 L 312.6 36.7 L 303 13.9 L 293.5 36.7",
@@ -197,7 +198,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545624",
+              "id": "1813259",
               "name": "a0_6",
               "type": "path",
               "pathData": "M 264.9 67 L 277.4 37 L 312.6 36.7 L 325.2 67",
@@ -206,7 +207,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545625",
+              "id": "1813260",
               "name": "a0_7",
               "type": "path",
               "pathData": "M 293.5 36.7 L 280.9 67",
@@ -217,12 +218,12 @@
           ]
         },
         {
-          "id": "1545626",
+          "id": "1813261",
           "name": "l0",
           "type": "group",
           "children": [
             {
-              "id": "1545627",
+              "id": "1813262",
               "name": "l0_0",
               "type": "path",
               "pathData": "M 345.3 2 L 350.1 2 L 350.1 67.1 L 364.1 67",
@@ -231,7 +232,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545628",
+              "id": "1813263",
               "name": "l0_1",
               "type": "path",
               "pathData": "M 364.1 67 L 364.1 2 L 369.9 2",
@@ -240,7 +241,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545629",
+              "id": "1813264",
               "name": "l0_2",
               "type": "path",
               "pathData": "M 345.3 67 L 398.8 67 L 398.8 62",
@@ -251,12 +252,12 @@
           ]
         },
         {
-          "id": "1545630",
+          "id": "1813265",
           "name": "p0",
           "type": "group",
           "children": [
             {
-              "id": "1545631",
+              "id": "1813266",
               "name": "p0_0",
               "type": "path",
               "pathData": "M 135.4 90 L 163.6 90 C 172.9 89.9 182.4 96 182.4 107.5 C 182.4 119.4 172 125.5 164.9 125 L 140.4 125 L 140.4 90",
@@ -266,7 +267,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545632",
+              "id": "1813267",
               "name": "p0_1",
               "type": "path",
               "pathData": "M 140.4 155 L 140.4 90 L 140.9 117.9 L 140.4 155",
@@ -276,7 +277,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545633",
+              "id": "1813268",
               "name": "p0_2",
               "type": "path",
               "pathData": "M 142.1 90 L 135.4 90",
@@ -285,7 +286,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545634",
+              "id": "1813269",
               "name": "p0_4",
               "type": "path",
               "pathData": "M 145.4 155 L 135.4 155",
@@ -296,12 +297,12 @@
           ]
         },
         {
-          "id": "1545635",
+          "id": "1813270",
           "name": "a1",
           "type": "group",
           "children": [
             {
-              "id": "1545636",
+              "id": "1813271",
               "name": "a1_0s",
               "type": "path",
               "pathData": "M 182.5 155 L 187.5 155",
@@ -310,7 +311,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545637",
+              "id": "1813272",
               "name": "a1_1s",
               "type": "path",
               "pathData": "M 209.7 90 L 225.7 90",
@@ -319,7 +320,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545638",
+              "id": "1813273",
               "name": "a1_2s",
               "type": "path",
               "pathData": "M 203.5 155 L 208.5 155",
@@ -328,7 +329,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545639",
+              "id": "1813274",
               "name": "a1_3s",
               "type": "path",
               "pathData": "M 203.5 155 L 187.5 155",
@@ -337,7 +338,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545640",
+              "id": "1813275",
               "name": "a1_4s",
               "type": "path",
               "pathData": "M 242.2 155 L 252.2 155",
@@ -346,7 +347,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545641",
+              "id": "1813276",
               "name": "a1_5",
               "type": "path",
               "pathData": "M 216.1 124.7 L 203.5 155",
@@ -355,7 +356,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545642",
+              "id": "1813277",
               "name": "a1_6",
               "type": "path",
               "pathData": "M 214.7 90 L 200 125 L 235.2 124.7 L 225.6 101.9 L 216.1 124.7",
@@ -364,7 +365,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545643",
+              "id": "1813278",
               "name": "a1_6_1",
               "type": "path",
               "pathData": "M 187.5 155 L 200 125 L 235.2 124.7 L 247.8 155",
@@ -375,12 +376,12 @@
           ]
         },
         {
-          "id": "1545644",
+          "id": "1813279",
           "name": "y0",
           "type": "group",
           "children": [
             {
-              "id": "1545645",
+              "id": "1813280",
               "name": "y0_0",
               "type": "path",
               "pathData": "M 248.8 90 L 275.3 90",
@@ -389,7 +390,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545646",
+              "id": "1813281",
               "name": "y0_1",
               "type": "path",
               "pathData": "M 265.3 155 L 270.4 155 L 270.4 131.9 L 252.9 90 L 269.4 90",
@@ -398,7 +399,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545647",
+              "id": "1813282",
               "name": "y0_2",
               "type": "path",
               "pathData": "M 269.4 90 L 286.8 131.9 L 286.8 155 L 291.9 155",
@@ -407,7 +408,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545648",
+              "id": "1813283",
               "name": "y0_3",
               "type": "path",
               "pathData": "M 304.3 90 L 286.8 131.9",
@@ -416,7 +417,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545649",
+              "id": "1813284",
               "name": "y0_4",
               "type": "path",
               "pathData": "M 298.5 90 L 308.5 90",
@@ -427,12 +428,12 @@
           ]
         },
         {
-          "id": "1545650",
+          "id": "1813285",
           "name": "f0",
           "type": "group",
           "children": [
             {
-              "id": "1545651",
+              "id": "1813286",
               "name": "f0_0",
               "type": "path",
               "pathData": "M 127.5 178.1 L 122.5 178.1",
@@ -441,7 +442,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545652",
+              "id": "1813287",
               "name": "f0_1",
               "type": "path",
               "pathData": "M 127.5 198.5 L 127.5 220.1",
@@ -450,7 +451,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545653",
+              "id": "1813288",
               "name": "f0_2",
               "type": "path",
               "pathData": "M 176 178.1 L 127.5 178.1 L 127.5 213 L 158.1 213 L 158.1 213.2 L 127.5 213.2 L 127.5 243.1 L 122.5 243.1",
@@ -459,7 +460,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545654",
+              "id": "1813289",
               "name": "f0_3",
               "type": "path",
               "pathData": "M 146 243.1 L 141.1 243.1 L 141.1 198.6",
@@ -468,7 +469,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545655",
+              "id": "1813290",
               "name": "f0_4",
               "type": "path",
               "pathData": "M 141.1 213.2 L 141.1 178.1 L 176 178.1 L 176 183",
@@ -479,12 +480,12 @@
           ]
         },
         {
-          "id": "1545656",
+          "id": "1813291",
           "name": "o0",
           "type": "group",
           "children": [
             {
-              "id": "1545657",
+              "id": "1813292",
               "name": "o0_0",
               "type": "path",
               "pathData": "M 218.8 242.9 L 213.7 242.9",
@@ -492,7 +493,7 @@
               "strokeWidth": 4
             },
             {
-              "id": "1545658",
+              "id": "1813293",
               "name": "o0_1",
               "type": "path",
               "pathData": "M 218.9 177.9 L 213.7 177.9",
@@ -500,7 +501,7 @@
               "strokeWidth": 4
             },
             {
-              "id": "1545659",
+              "id": "1813294",
               "name": "o0_2",
               "type": "path",
               "pathData": "M 218.9 242.9 C 236.9 242.9 251.4 228.3 251.4 210.4 C 251.4 192.5 236.8 177.9 218.9 177.9 L 218.9 242.9 Z",
@@ -508,7 +509,7 @@
               "strokeWidth": 4
             },
             {
-              "id": "1545660",
+              "id": "1813295",
               "name": "o0_3",
               "type": "path",
               "pathData": "M 205.3 180.7 C 188.9 188 181.5 207.2 188.8 223.6 C 192.2 231.2 198.3 237.2 205.9 240.4 L 205.3 180.7 Z",
@@ -519,12 +520,12 @@
           ]
         },
         {
-          "id": "1545661",
+          "id": "1813296",
           "name": "r0",
           "type": "group",
           "children": [
             {
-              "id": "1545662",
+              "id": "1813297",
               "name": "r0_0",
               "type": "path",
               "pathData": "M 317.6 243.1 L 295.3 213 L 270.8 213 L 270.8 178 L 270.8 243",
@@ -534,7 +535,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545663",
+              "id": "1813298",
               "name": "r0_1",
               "type": "path",
               "pathData": "M 270.8 178 L 270.8 213 L 295.3 213 C 305 213 312.8 205.1 312.8 195.5 C 312.8 185.8 304.9 178 295.3 178",
@@ -543,7 +544,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545664",
+              "id": "1813299",
               "name": "r0_2",
               "type": "path",
               "pathData": "M 295.3 178 L 265.8 178",
@@ -552,7 +553,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545665",
+              "id": "1813300",
               "name": "r0_3",
               "type": "path",
               "pathData": "M 322.6 243.1 L 312.6 243.1",
@@ -561,7 +562,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545666",
+              "id": "1813301",
               "name": "r0_4",
               "type": "path",
               "pathData": "M 275.8 243.1 L 265.8 243.1",
@@ -572,12 +573,12 @@
           ]
         },
         {
-          "id": "1545667",
+          "id": "1813302",
           "name": "e1",
           "type": "group",
           "children": [
             {
-              "id": "1545668",
+              "id": "1813303",
               "name": "e1_0",
               "type": "path",
               "pathData": "M 46 331 L 99.4 331 L 99.4 326",
@@ -586,7 +587,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545669",
+              "id": "1813304",
               "name": "e1_1",
               "type": "path",
               "pathData": "M 46 331 L 99.6 331 L 99.6 326",
@@ -595,7 +596,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545670",
+              "id": "1813305",
               "name": "e1_2",
               "type": "path",
               "pathData": "M 46 266 L 51 266 L 51 301 L 81.6 301 L 81.6 300.9 L 51 300.9 L 51 331",
@@ -604,7 +605,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545671",
+              "id": "1813306",
               "name": "e1_3",
               "type": "path",
               "pathData": "M 64.6 301 L 64.6 266 L 99.4 266 L 99.4 271",
@@ -613,7 +614,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545672",
+              "id": "1813307",
               "name": "e1_4",
               "type": "path",
               "pathData": "M 64.6 331 L 64.6 301",
@@ -624,12 +625,12 @@
           ]
         },
         {
-          "id": "1545673",
+          "id": "1813308",
           "name": "q1",
           "type": "group",
           "children": [
             {
-              "id": "1545674",
+              "id": "1813309",
               "name": "q1_0",
               "type": "path",
               "pathData": "M 168.5 300 L 158.5 300",
@@ -638,7 +639,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545675",
+              "id": "1813310",
               "name": "q1_1",
               "type": "path",
               "pathData": "M 147.1 264 L 147.1 330.9 L 163.5 330.9 L 163.5 300",
@@ -647,7 +648,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545676",
+              "id": "1813311",
               "name": "q1_2",
               "type": "path",
               "pathData": "M 164.5 325.6 C 173.3 319.8 179.1 309.8 179.1 298.5 C 179.1 280.7 164.8 266.3 147.1 266",
@@ -656,7 +657,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545677",
+              "id": "1813312",
               "name": "q1_3",
               "type": "path",
               "pathData": "M 114.1 298.5 C 114.1 311.6 121.9 322.9 133.1 328.1 L 133.1 268.9 C 121.9 274.1 114.1 285.4 114.1 298.5 Z",
@@ -667,12 +668,12 @@
           ]
         },
         {
-          "id": "1545678",
+          "id": "1813313",
           "name": "u1",
           "type": "group",
           "children": [
             {
-              "id": "1545679",
+              "id": "1813314",
               "name": "u1_0",
               "type": "path",
               "pathData": "M 199.8 308 L 199.8 265.3 L 194.8 265.3",
@@ -681,7 +682,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545680",
+              "id": "1813315",
               "name": "u1_1",
               "type": "path",
               "pathData": "M 199.8 308 C 199.8 317.5 205.8 324.7 214.2 327.9 L 214.1 269.8 L 214.1 265.3 L 219.1 265.3",
@@ -690,16 +691,17 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545681",
+              "id": "1813316",
               "name": "u1_2",
               "type": "path",
               "pathData": "M 249.4 265.3 L 230.1 265.3 L 230.1 328.8 C 238.5 325.6 244.4 317.5 244.4 308",
               "strokeColor": "#ee255c",
               "strokeWidth": 4,
+              "strokeLinejoin": "bevel",
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545682",
+              "id": "1813317",
               "name": "u1_3",
               "type": "path",
               "pathData": "M 249.4 265.3 L 244.4 265.3 L 244.4 308",
@@ -710,12 +712,12 @@
           ]
         },
         {
-          "id": "1545683",
+          "id": "1813318",
           "name": "a2",
           "type": "group",
           "children": [
             {
-              "id": "1545684",
+              "id": "1813319",
               "name": "a2_0",
               "type": "path",
               "pathData": "M 260.1 331 L 286.1 331",
@@ -723,7 +725,7 @@
               "strokeWidth": 4
             },
             {
-              "id": "1545685",
+              "id": "1813320",
               "name": "a2_1",
               "type": "path",
               "pathData": "M 319.9 331 L 329.9 331",
@@ -732,7 +734,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545686",
+              "id": "1813321",
               "name": "a2_2",
               "type": "path",
               "pathData": "M 287.4 266 L 303.4 266",
@@ -741,7 +743,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545687",
+              "id": "1813322",
               "name": "a2_3",
               "type": "path",
               "pathData": "M 293.8 300.7 L 281.1 331",
@@ -750,7 +752,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545688",
+              "id": "1813323",
               "name": "a2_4",
               "type": "path",
               "pathData": "M 292.4 266 L 277.6 301 L 312.9 300.7 L 303.2 277.9 L 293.8 300.7",
@@ -759,7 +761,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545689",
+              "id": "1813324",
               "name": "a2_5",
               "type": "path",
               "pathData": "M 265.1 331 L 277.6 301 L 312.9 300.7 L 325.5 331",
@@ -770,12 +772,12 @@
           ]
         },
         {
-          "id": "1545690",
+          "id": "1813325",
           "name": "l1",
           "type": "group",
           "children": [
             {
-              "id": "1545691",
+              "id": "1813326",
               "name": "l1_0",
               "type": "path",
               "pathData": "M 345.3 266 L 350.1 266 L 350.1 331 L 357.6 331",
@@ -784,7 +786,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545692",
+              "id": "1813327",
               "name": "l1_1",
               "type": "path",
               "pathData": "M 357.6 331 L 364.1 331 L 364.1 266 L 369.9 266",
@@ -793,7 +795,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545693",
+              "id": "1813328",
               "name": "l1_2",
               "type": "path",
               "pathData": "M 345.3 331 L 398.8 331 L 398.8 326",
@@ -803,12 +805,12 @@
           ]
         },
         {
-          "id": "1545694",
+          "id": "1813329",
           "name": "w0",
           "type": "group",
           "children": [
             {
-              "id": "1545695",
+              "id": "1813330",
               "name": "w0_0",
               "type": "path",
               "pathData": "M 75.4 354 L 80.4 354 L 80.4 419 L 108.4 419 L 134.6 354 L 95.2 354 L 95.2 381.9",
@@ -817,7 +819,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545696",
+              "id": "1813331",
               "name": "w0_1",
               "type": "path",
               "pathData": "M 116.1 399.9 L 124.1 419 L 149.2 419 L 149.2 354 L 154.2 354",
@@ -828,12 +830,12 @@
           ]
         },
         {
-          "id": "1545697",
+          "id": "1813332",
           "name": "o1",
           "type": "group",
           "children": [
             {
-              "id": "1545698",
+              "id": "1813333",
               "name": "o1_0",
               "type": "path",
               "pathData": "M 197.7 418.6 L 192.6 418.6",
@@ -841,7 +843,7 @@
               "strokeWidth": 4
             },
             {
-              "id": "1545699",
+              "id": "1813334",
               "name": "o1_1",
               "type": "path",
               "pathData": "M 197.8 353.6 L 192.6 353.6",
@@ -849,7 +851,7 @@
               "strokeWidth": 4
             },
             {
-              "id": "1545700",
+              "id": "1813335",
               "name": "o1_2",
               "type": "path",
               "pathData": "M 197.8 418.6 C 215.8 418.6 230.3 404 230.3 386.1 C 230.3 368.2 215.7 353.6 197.8 353.6 L 197.8 418.6 Z",
@@ -857,7 +859,7 @@
               "strokeWidth": 4
             },
             {
-              "id": "1545701",
+              "id": "1813336",
               "name": "o1_3",
               "type": "path",
               "pathData": "M 184.2 356.4 C 167.8 363.7 160.4 382.9 167.7 399.3 C 171.1 406.9 177.2 412.9 184.8 416.1 L 184.2 356.4 Z",
@@ -868,12 +870,12 @@
           ]
         },
         {
-          "id": "1545702",
+          "id": "1813337",
           "name": "r1",
           "type": "group",
           "children": [
             {
-              "id": "1545703",
+              "id": "1813338",
               "name": "r1_0",
               "type": "path",
               "pathData": "M 252.9 419.1 L 242.9 419.1",
@@ -882,7 +884,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545704",
+              "id": "1813339",
               "name": "r1_1",
               "type": "path",
               "pathData": "M 299.7 419.1 L 289.7 419.1",
@@ -891,7 +893,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545705",
+              "id": "1813340",
               "name": "r1_2",
               "type": "path",
               "pathData": "M 294.7 419.1 L 272.4 389 L 247.9 389 L 247.9 354 L 247.9 419",
@@ -901,7 +903,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545706",
+              "id": "1813341",
               "name": "r1_3",
               "type": "path",
               "pathData": "M 272.4 354 C 282 354 289.9 361.8 289.9 371.5 C 289.9 381.1 282.1 389 272.4 389 L 247.9 389 L 247.9 354",
@@ -910,7 +912,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545707",
+              "id": "1813342",
               "name": "r1_4",
               "type": "path",
               "pathData": "M 272.4 354 L 242.9 354",
@@ -921,12 +923,12 @@
           ]
         },
         {
-          "id": "1545708",
+          "id": "1813343",
           "name": "k0",
           "type": "group",
           "children": [
             {
-              "id": "1545709",
+              "id": "1813344",
               "name": "k0_0",
               "type": "path",
               "pathData": "M 366.8 354 L 361.8 354 L 350.1 382 L 350.1 419 L 313.6 419",
@@ -935,7 +937,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545710",
+              "id": "1813345",
               "name": "k0_1",
               "type": "path",
               "pathData": "M 369.8 419 L 359.8 419",
@@ -944,7 +946,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545711",
+              "id": "1813346",
               "name": "k0_2",
               "type": "path",
               "pathData": "M 313.6 354 L 318.6 354 L 318.6 419",
@@ -953,7 +955,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545712",
+              "id": "1813347",
               "name": "k0_3",
               "type": "path",
               "pathData": "M 350.1 382 L 365.6 419",
@@ -962,7 +964,7 @@
               "strokeMiterLimit": 10
             },
             {
-              "id": "1545713",
+              "id": "1813348",
               "name": "k0_4",
               "type": "path",
               "pathData": "M 315.2 354 L 332.6 354 L 332.6 419 L 315.2 419",
@@ -978,383 +980,383 @@
   },
   "timeline": {
     "animation": {
-      "id": "1545714",
+      "id": "1813349",
       "name": "anim",
       "duration": 300,
       "blocks": [
         {
-          "id": "1545715",
-          "layerId": "1545603",
+          "id": "1813350",
+          "layerId": "1813238",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
           "fromValue": "M 46 2 L 51 2 L 51 37 L 81.6 37 L 81.6 36.9 L 51 36.9 L 51 67",
-          "toValue": "M 46 2 L 51 2 L 51 24.9 L 81.6 24.9 L 81.6 49 L 51 49 L 51 67"
+          "toValue": "M 45.7 1.8 L 50.7 1.8 L 50.7 25.7 L 81.3 25.7 L 81.3 47.7 L 50.7 47.7 L 50.7 66.8"
         },
         {
-          "id": "1545716",
-          "layerId": "1545608",
+          "id": "1813351",
+          "layerId": "1813243",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
           "fromValue": "M 168.6 36 L 158.6 36",
-          "toValue": "M 171.6 36.1 L 161.6 36.1"
+          "toValue": "M 170.1 35.9 L 160.1 35.9"
         },
         {
-          "id": "1545717",
-          "layerId": "1545609",
+          "id": "1813352",
+          "layerId": "1813244",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
           "fromValue": "M 147.2 0 L 147.2 66.9 L 163.6 66.9 L 163.6 36",
-          "toValue": "M 126.6 9.1 L 173.8 67.1 L 190.2 67 L 165 36.1"
+          "toValue": "M 128.8 9.3 L 170 66.8 L 186.4 66.8 L 164.2 35.9"
         },
         {
-          "id": "1545718",
-          "layerId": "1545610",
+          "id": "1813353",
+          "layerId": "1813245",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
-          "fromValue": "M 164.6 61.6 C 173.4 55.8 179.2 45.8 179.2 34.5 C 179.2 31.533 178.803 28.661 178.059 25.933 C 177.315 23.205 176.224 20.62 174.837 18.23 C 173.45 15.839 171.767 13.642 169.838 11.688 C 167.908 9.733 165.733 8.022 163.363 6.604 C 160.993 5.185 158.427 4.059 155.716 3.275 C 154.517 2.929 153.289 2.649 152.038 2.44 C 151.095 2.283 150.138 2.167 149.17 2.092 C 148.518 2.042 147.862 2.011 147.2 2",
-          "toValue": "M 175.8 49.2 C 178 44.8 179.3 39.8 179.3 34.6 C 179.3 31.6 178.894 28.697 178.136 25.943 C 177.377 23.188 176.265 20.581 174.852 18.174 C 173.439 15.767 171.725 13.558 169.762 11.6 C 166.801 8.645 163.273 6.259 159.359 4.617 C 155.492 2.995 151.248 2.1 146.8 2.1 C 141.28 2.1 136.025 3.471 131.454 5.946 C 129.731 6.879 128.106 7.968 126.6 9.2 C 127 9.733 127.4 10.267 127.8 10.8"
+          "fromValue": "M 164.6 61.6 C 173.4 55.8 179.2 45.8 179.2 34.5 C 179.2 17.221 165.726 3.147 148.746 2.062 C 148.234 2.03 147.718 2.009 147.2 2 L 147.2 2",
+          "toValue": "M 174.6 50.4 C 177.3 45.7 178.9 40.2 178.9 34.3 C 178.9 16.3 164.3 1.8 146.4 1.8 C 139.4 1.8 133 4 127.7 7.7 L 128.8 9.3"
         },
         {
-          "id": "1545719",
-          "layerId": "1545611",
+          "id": "1813354",
+          "layerId": "1813246",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
-          "fromValue": "M 114.2 34.5 C 114.2 45.933 120.141 55.994 129.098 61.827 C 130.404 62.678 131.775 63.438 133.2 64.1 L 133.2 4.9 C 122 10.1 114.2 21.4 114.2 34.5 L 114.2 34.5",
-          "toValue": "M 114.2 34.5 C 114.2 52.5 128.8 67 146.7 67 C 149.6 67 152.5 66.6 155.2 65.9 L 117.7 19.8 C 115.5 24.2 114.2 29.2 114.2 34.5 L 114.2 34.5"
+          "fromValue": "M 114.2 34.5 C 114.2 46.475 120.718 56.946 130.393 62.628 C 131.302 63.162 132.238 63.654 133.2 64.1 L 133.2 4.9 C 122 10.1 114.2 21.4 114.2 34.5 Z",
+          "toValue": "M 113.9 34.3 C 113.9 52.3 128.5 66.8 146.4 66.8 C 148.4 66.8 150.4 66.6 152.4 66.2 L 118.1 18.3 C 115.4 23.1 113.9 28.5 113.9 34.3 Z"
         },
         {
-          "id": "1545720",
-          "layerId": "1545627",
+          "id": "1813355",
+          "layerId": "1813248",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 364.1 67 L 350.1 67.1 L 350.1 2 L 348.5 2 L 346.9 2 L 345.3 2",
-          "toValue": "M 359.4 67 L 345.4 33.5 L 345.4 2 L 343.733 2 L 342.067 2 L 340.4 2"
-        },
-        {
-          "id": "1545721",
-          "layerId": "1545628",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 364.1 67 L 364.1 2 L 369.9 2",
-          "toValue": "M 374.3 67 L 374.3 2 L 380 2"
-        },
-        {
-          "id": "1545722",
-          "layerId": "1545629",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 345.3 67 L 398.8 67 L 398.8 62",
-          "toValue": "M 340.3 67.1 L 393.8 67.1 L 393.8 62.1"
-        },
-        {
-          "id": "1545723",
-          "layerId": "1545613",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
           "fromValue": "M 199.7 44.7 L 199.7 2 L 194.7 2",
-          "toValue": "M 206.4 44.6 L 206.4 1.9 L 201.4 1.9"
+          "toValue": "M 206.4 44.5 L 206.4 1.8 L 201.4 1.8"
         },
         {
-          "id": "1545724",
-          "layerId": "1545614",
+          "id": "1813356",
+          "layerId": "1813249",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
           "fromValue": "M 219 2 L 214 2 L 214 6.5 L 214.1 64.6 C 205.7 61.4 199.7 54.2 199.7 44.7",
-          "toValue": "M 256 1.9 L 248.9 1.9 L 247.151 4.054 L 207.9 52.4 C 207 50 206.5 47.4 206.5 44.6"
+          "toValue": "M 256 1.8 L 245.8 1.8 L 241.84 7.234 L 208.2 53.4 C 207.1 50.7 206.4 47.7 206.4 44.5"
         },
         {
-          "id": "1545725",
-          "layerId": "1545615",
+          "id": "1813357",
+          "layerId": "1813250",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
-          "fromValue": "M 244.3 44.7 C 244.3 54.2 238.4 62.3 230 65.5 L 230 2 L 237.621 2 L 240.046 2 L 242.817 2 L 249.3 2",
-          "toValue": "M 251 44.6 C 251.4 59 234.8 74 216.4 63.2 L 250.1 21.9 L 250.3 22 L 250.969 22.287 L 251 22.3 L 251 23.7"
+          "fromValue": "M 249.3 2 L 249.3 2 L 230 2 L 230 63.336 C 230 64.057 230 64.779 230 65.5 C 230.255 65.403 230.507 65.302 230.757 65.196 C 238.752 61.808 244.3 53.912 244.3 44.7",
+          "toValue": "M 251 21 L 251 18 L 250.7 18.3 L 218 64.1 C 221.2 65.9 224.9 66.9 228.8 66.9 C 234.95 66.9 240.525 64.4 244.563 60.362 C 248.6 56.325 251.1 50.75 251.1 44.6"
         },
         {
-          "id": "1545726",
-          "layerId": "1545616",
+          "id": "1813358",
+          "layerId": "1813251",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
-          "fromValue": "M 249.3 2 L 244.3 2 L 244.3 44.7",
-          "toValue": "M 251 22.8 L 251 22.8 L 251 44.6"
+          "fromValue": "M 244.3 44.7 L 244.3 2 L 249.3 2",
+          "toValue": "M 251 44.5 L 251 19.115 L 251 19.1"
         },
         {
-          "id": "1545727",
-          "layerId": "1545623",
+          "id": "1819518",
+          "layerId": "1813240",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 292.1 2 L 277.4 37 L 312.6 36.7 L 303 13.9 L 293.5 36.7",
-          "toValue": "M 291.7 1.9 L 282.2 24.8 L 307.3 24.8 L 302.7 13.9 L 298.2 24.8"
-        },
-        {
-          "id": "1545728",
-          "layerId": "1545624",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 325.2 67 L 325.2 67 L 312.6 36.7 L 277.4 37 L 264.9 67",
-          "toValue": "M 324.9 66.9 L 324.9 66.9 L 317.4 48.9 L 272.1 48.9 L 264.5 66.9"
-        },
-        {
-          "id": "1545729",
-          "layerId": "1545625",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 293.5 36.7 L 280.9 67",
-          "toValue": "M 288 49 L 280.5 66.9"
-        },
-        {
-          "id": "1545730",
-          "layerId": "1545670",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 46 266 L 51 266 L 51 301 L 81.6 301 L 81.6 300.9 L 51 300.9 L 51 331",
-          "toValue": "M 46 266 L 51 266 L 51 288.9 L 81.6 288.9 L 81.6 313 L 51 313 L 51 331"
-        },
-        {
-          "id": "1545731",
-          "layerId": "1545674",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 168.5 300 L 158.5 300",
-          "toValue": "M 171.6 300.1 L 161.6 300.1"
-        },
-        {
-          "id": "1545732",
-          "layerId": "1545675",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 147.1 264 L 147.1 330.9 L 163.5 330.9 L 163.5 300",
-          "toValue": "M 126.6 273.1 L 173.8 331.1 L 190.2 331 L 165 300.1"
-        },
-        {
-          "id": "1545733",
-          "layerId": "1545676",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 147.1 266 C 147.261 266.003 147.422 266.007 147.582 266.012 C 147.92 266.022 148.258 266.038 148.593 266.059 C 148.611 266.06 148.629 266.061 148.646 266.062 C 149.406 266.111 150.159 266.185 150.904 266.285 C 166.804 268.413 179.1 281.995 179.1 298.5 C 179.1 309.8 173.3 319.8 164.5 325.6",
-          "toValue": "M 127.8 274.8 C 127.4 274.267 127 273.733 126.6 273.2 C 128.067 272 129.647 270.935 131.32 270.019 C 133.197 268.991 135.19 268.15 137.27 267.514 C 140.292 266.591 143.499 266.1 146.8 266.1 C 164.7 266.1 179.3 280.6 179.3 298.6 C 179.3 303.8 178 308.8 175.8 313.2"
-        },
-        {
-          "id": "1545734",
-          "layerId": "1545677",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 133.1 268.9 C 121.9 274.1 114.1 285.4 114.1 298.5 L 114.1 298.5 C 114.1 308.795 118.917 317.978 126.416 323.962 C 128.459 325.593 130.702 326.986 133.1 328.1 L 133.1 268.9",
-          "toValue": "M 117.7 283.8 C 115.5 288.2 114.2 293.2 114.2 298.5 L 114.2 298.5 C 114.2 316.5 128.8 331 146.7 331 C 149.6 331 152.5 330.6 155.2 329.9 L 117.7 283.8"
-        },
-        {
-          "id": "1545735",
-          "layerId": "1545679",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 199.8 308 L 199.8 265.3 L 194.8 265.3",
-          "toValue": "M 206.5 307.9 L 206.5 265.2 L 201.5 265.2"
-        },
-        {
-          "id": "1545736",
-          "layerId": "1545680",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 219.1 265.3 L 214.1 265.3 L 214.1 269.8 L 214.2 327.9 C 205.8 324.7 199.8 317.5 199.8 308",
-          "toValue": "M 256.1 265.2 L 250.744 265.2 L 249 265.2 L 208 315.7 C 207.1 313.3 206.6 310.7 206.6 307.9"
-        },
-        {
-          "id": "1545737",
-          "layerId": "1545681",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 249.4 265.3 L 242.967 265.3 L 236.533 265.3 L 230.1 265.3 L 230.1 328.8 C 238.5 325.6 244.4 317.5 244.4 308",
-          "toValue": "M 251.1 287 L 251.1 285.6 L 250.4 285.3 L 250.2 285.2 L 216.5 326.5 C 234.9 337.3 251.5 322.3 251.1 307.9"
-        },
-        {
-          "id": "1545738",
-          "layerId": "1545682",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 249.4 265.3 L 244.4 265.3 L 244.4 308",
-          "toValue": "M 251 286.1 L 251 286.1 L 251.1 307.9"
-        },
-        {
-          "id": "1545739",
-          "layerId": "1545688",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 292.4 266 L 277.6 301 L 312.9 300.7 L 303.2 277.9 L 293.8 300.7",
-          "toValue": "M 292.3 265.9 L 282.8 288.8 L 307.9 288.8 L 303.3 277.9 L 298.7 288.8"
-        },
-        {
-          "id": "1545740",
-          "layerId": "1545689",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 325.5 331 L 312.9 300.7 L 277.6 301 L 265.1 331",
-          "toValue": "M 325.5 330.9 L 318 312.9 L 272.7 312.9 L 265.1 330.9"
-        },
-        {
-          "id": "1545741",
-          "layerId": "1545687",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 293.8 300.7 L 281.1 331",
-          "toValue": "M 288.6 313 L 281.1 330.9"
-        },
-        {
-          "id": "1545742",
-          "layerId": "1545691",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 345.3 266 L 350.1 266 L 350.1 331 L 357.6 331",
-          "toValue": "M 340.4 266 L 345.4 266 L 345.4 297.5 L 359.4 331"
-        },
-        {
-          "id": "1545743",
-          "layerId": "1545692",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 357.6 331 L 364.1 331 L 364.1 266 L 367 266 L 369.9 266",
-          "toValue": "M 374.3 331 L 374.3 331 L 374.3 266 L 374.372 266 L 380 266"
-        },
-        {
-          "id": "1545744",
-          "layerId": "1545693",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
-          "interpolator": "FAST_OUT_SLOW_IN",
-          "type": "path",
-          "fromValue": "M 345.3 331 L 398.8 331 L 398.8 326",
-          "toValue": "M 340.3 331.1 L 393.8 331.1 L 393.8 326.1"
-        },
-        {
-          "id": "1550279",
-          "layerId": "1545605",
-          "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
           "fromValue": "M 64.6 37 L 64.6 2 L 99.5 2 L 99.5 7",
-          "toValue": "M 64.6 24.9 L 64.6 2 L 99.5 2 L 99.5 7"
+          "toValue": "M 64.3 25.7 L 64.3 1.8 L 99.2 1.8 L 99.2 6.8"
         },
         {
-          "id": "1560234",
-          "layerId": "1545606",
+          "id": "1819640",
+          "layerId": "1813241",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
           "fromValue": "M 64.6 67 L 64.6 37",
-          "toValue": "M 64.6 67 L 64.6 49"
+          "toValue": "M 64.3 66.8 L 64.3 47.7"
         },
         {
-          "id": "1596060",
-          "layerId": "1545671",
+          "id": "1962021",
+          "layerId": "1813258",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 292.1 2 L 277.4 37 L 312.6 36.7 L 303 13.9 L 293.5 36.7",
+          "toValue": "M 291.8 1.8 L 281.8 25.7 L 307.8 25.7 L 302.7 13.8 L 297.7 25.7"
+        },
+        {
+          "id": "1976952",
+          "layerId": "1813259",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 264.9 67 L 277.4 37 L 312.6 36.7 L 325.2 67",
+          "toValue": "M 264.6 66.8 L 272.6 47.7 L 316.9 47.7 L 324.9 66.8"
+        },
+        {
+          "id": "1983665",
+          "layerId": "1813260",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 293.5 36.7 L 280.9 67",
+          "toValue": "M 288.5 47.7 L 280.5 66.8"
+        },
+        {
+          "id": "1989401",
+          "layerId": "1813262",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 345.3 2 L 350.1 2 L 350.1 67.1 L 364.1 67",
+          "toValue": "M 340 1.8 L 345 1.8 L 345 33.4 L 359 66.8"
+        },
+        {
+          "id": "1989403",
+          "layerId": "1813263",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 364.1 67 L 364.1 2 L 369.9 2",
+          "toValue": "M 367 66.8 L 367 1.8 L 372.7 1.8"
+        },
+        {
+          "id": "1989405",
+          "layerId": "1813264",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 345.3 67 L 398.8 67 L 398.8 62",
+          "toValue": "M 340 66.9 L 393.5 66.9 L 393.5 61.9"
+        },
+        {
+          "id": "2053606",
+          "layerId": "1813305",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 46 266 L 51 266 L 51 301 L 81.6 301 L 81.6 300.9 L 51 300.9 L 51 331",
+          "toValue": "M 46 265.8 L 51 265.8 L 51 289.7 L 81.6 289.7 L 81.6 311.7 L 51 311.7 L 51 330.8"
+        },
+        {
+          "id": "2053608",
+          "layerId": "1813306",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
           "fromValue": "M 64.6 301 L 64.6 266 L 99.4 266 L 99.4 271",
-          "toValue": "M 64.6 288.9 L 64.6 266 L 99.5 266 L 99.5 271"
+          "toValue": "M 64.6 289.7 L 64.6 265.8 L 99.5 265.8 L 99.5 270.8"
         },
         {
-          "id": "1606079",
-          "layerId": "1545672",
+          "id": "2053610",
+          "layerId": "1813307",
           "propertyName": "pathData",
-          "startTime": 200,
-          "endTime": 300,
+          "startTime": 0,
+          "endTime": 100,
           "interpolator": "FAST_OUT_SLOW_IN",
           "type": "path",
           "fromValue": "M 64.6 331 L 64.6 301",
-          "toValue": "M 64.6 331 L 64.6 313"
+          "toValue": "M 64.6 330.8 L 64.6 311.7"
+        },
+        {
+          "id": "2070960",
+          "layerId": "1813309",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 168.5 300 L 158.5 300",
+          "toValue": "M 170.1 299.9 L 160.1 299.9"
+        },
+        {
+          "id": "2070962",
+          "layerId": "1813310",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 147.1 264 L 147.1 330.9 L 163.5 330.9 L 163.5 300",
+          "toValue": "M 128.8 273.3 L 170 330.8 L 186.4 330.8 L 164.2 299.9"
+        },
+        {
+          "id": "2070964",
+          "layerId": "1813311",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 147.1 266 C 147.994 266.015 148.879 266.066 149.754 266.152 C 152.975 266.467 156.059 267.251 158.937 268.435 C 170.761 273.297 179.1 284.907 179.1 298.5 C 179.1 309.8 173.3 319.8 164.5 325.6",
+          "toValue": "M 128.8 273.3 C 128.433 272.767 128.067 272.233 127.7 271.7 C 133 268 139.4 265.8 146.4 265.8 C 164.3 265.8 178.9 280.3 178.9 298.3 C 178.9 304.2 177.3 309.7 174.6 314.4"
+        },
+        {
+          "id": "2070966",
+          "layerId": "1813312",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 133.1 328.1 L 133.1 268.9 C 121.9 274.1 114.1 285.4 114.1 298.5 L 114.1 298.5 C 114.1 310.965 121.162 321.8 131.495 327.301 C 132.022 327.581 132.557 327.848 133.1 328.1",
+          "toValue": "M 152.4 330.2 L 118.1 282.3 C 115.4 287.1 113.9 292.5 113.9 298.3 L 113.9 298.3 C 113.9 316.3 128.5 330.8 146.4 330.8 C 148.4 330.8 150.4 330.6 152.4 330.2"
+        },
+        {
+          "id": "2188319",
+          "layerId": "1813314",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 199.8 308 L 199.8 265.3 L 194.8 265.3",
+          "toValue": "M 206.4 307.5 L 206.4 264.8 L 201.4 264.8"
+        },
+        {
+          "id": "2188615",
+          "layerId": "1813315",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 199.8 308 C 199.8 317.5 205.8 324.7 214.2 327.9 L 214.1 269.8 L 214.1 265.3 L 219.1 265.3",
+          "toValue": "M 206.4 307.5 C 206.4 310.7 207.1 313.7 208.2 316.4 L 244.91 266.021 L 245.8 264.8 L 256 264.8"
+        },
+        {
+          "id": "2193646",
+          "layerId": "1813316",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 249.4 265.3 L 239.75 265.3 L 230.1 265.3 L 230.1 328.8 C 230.524 328.638 230.942 328.464 231.353 328.278 C 239.081 324.778 244.4 317.02 244.4 308",
+          "toValue": "M 251 284 L 251 281 L 250.7 281.3 L 218 327.1 C 221.2 328.9 224.9 329.9 228.8 329.9 C 241.1 329.9 251.1 319.9 251.1 307.6"
+        },
+        {
+          "id": "2193648",
+          "layerId": "1813317",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 244.4 308 L 244.4 265.3 L 249.4 265.3",
+          "toValue": "M 251 307.5 L 251 282.1 L 251 282.1"
+        },
+        {
+          "id": "2323821",
+          "layerId": "1813323",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 292.4 266 L 277.6 301 L 312.9 300.7 L 303.2 277.9 L 293.8 300.7",
+          "toValue": "M 292.8 265.8 L 282.8 289.7 L 308.8 289.7 L 303.7 277.8 L 298.7 289.7"
+        },
+        {
+          "id": "2323823",
+          "layerId": "1813322",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 293.8 300.7 L 281.1 331",
+          "toValue": "M 289.5 311.7 L 281.5 330.8"
+        },
+        {
+          "id": "2323825",
+          "layerId": "1813324",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 265.1 331 L 277.6 301 L 312.9 300.7 L 325.5 331",
+          "toValue": "M 265.6 330.8 L 273.6 311.7 L 317.9 311.7 L 325.9 330.8"
+        },
+        {
+          "id": "2359396",
+          "layerId": "1813326",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 345.3 266 L 350.1 266 L 350.1 331 L 357.6 331",
+          "toValue": "M 340.2 266 L 345.2 266 L 345.2 297.6 L 359.2 331"
+        },
+        {
+          "id": "2359782",
+          "layerId": "1813327",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 357.6 331 L 364.1 331 L 364.1 266 L 369.9 266",
+          "toValue": "M 367.2 331 L 367.2 330.088 L 367.2 266 L 373 266"
+        },
+        {
+          "id": "2360174",
+          "layerId": "1813328",
+          "propertyName": "pathData",
+          "startTime": 0,
+          "endTime": 100,
+          "interpolator": "FAST_OUT_SLOW_IN",
+          "type": "path",
+          "fromValue": "M 345.3 331 L 398.8 331 L 398.8 326",
+          "toValue": "M 340.2 331.1 L 393.8 331.1 L 393.8 326.1"
         }
       ]
     }

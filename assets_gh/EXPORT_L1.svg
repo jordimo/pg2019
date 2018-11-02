@@ -3,31 +3,39 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 401.2 421.2" style="enable-background:new 0 0 401.2 421.2;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
-	.st1{display:none;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st0{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st1{display:none;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
 	.st2{display:none;}
-	.st3{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
-	.st4{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st3{display:inline;}
+	.st4{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st5{display:none;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st6{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st7{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
 </style>
-<g id="_x33_">
-	<g id="_x33__1_">
-		<polyline class="st0" points="340.3,331.1 393.8,331.1 393.8,326.1 		"/>
-		<polyline class="st1" points="374.3,331 374.3,266 380,266 		"/>
-		<polyline class="st1" points="340.4,266 345.4,266 345.4,297.5 359.4,331 		"/>
+<g id="_x34_">
+	<polyline class="st0" points="340.2,331.1 393.8,331.1 393.8,326.1 	"/>
+	<polyline class="st1" points="367.2,331 367.2,266 373,266 	"/>
+	<polyline class="st1" points="340.2,266 345.2,266 345.2,297.6 359.2,331 	"/>
+</g>
+<g id="_x33_" class="st2">
+	<g id="_x33__1_" class="st3">
+		<polyline class="st4" points="340.3,331.1 393.8,331.1 393.8,326.1 		"/>
+		<polyline class="st5" points="374.3,331 374.3,266 380,266 		"/>
+		<polyline class="st5" points="340.4,266 345.4,266 345.4,297.5 359.4,331 		"/>
 	</g>
 </g>
 <g id="_x32_" class="st2">
-	<polyline class="st3" points="340.3,331.1 393.8,331.1 393.8,326.1 	"/>
-	<polyline class="st3" points="368.7,331 374.3,331 374.3,266 380,266 	"/>
-	<polyline class="st3" points="340.4,266 345.4,266 345.4,297.5 359.4,331 	"/>
+	<polyline class="st6" points="340.3,331.1 393.8,331.1 393.8,326.1 	"/>
+	<polyline class="st6" points="368.7,331 374.3,331 374.3,266 380,266 	"/>
+	<polyline class="st6" points="340.4,266 345.4,266 345.4,297.5 359.4,331 	"/>
 </g>
 <g id="_x31_" class="st2">
-	<polyline class="st4" points="357.4,331 364.2,331 364.1,266 369.9,266 	"/>
-	<polyline class="st4" points="345.3,266 350.3,266 350.3,297.5 364.2,331 	"/>
+	<polyline class="st7" points="357.4,331 364.2,331 364.1,266 369.9,266 	"/>
+	<polyline class="st7" points="345.3,266 350.3,266 350.3,297.5 364.2,331 	"/>
 </g>
 <g id="_x30_" class="st2">
-	<polyline class="st4" points="345.3,331 398.8,331 398.8,326 	"/>
-	<polyline class="st4" points="357.6,331 364.1,331 364.1,266 369.9,266 	"/>
-	<polyline class="st4" points="345.3,266 350.1,266 350.1,331 357.6,331 	"/>
+	<polyline class="st7" points="345.3,331 398.8,331 398.8,326 	"/>
+	<polyline class="st7" points="357.6,331 364.1,331 364.1,266 369.9,266 	"/>
+	<polyline class="st7" points="345.3,266 350.1,266 350.1,331 357.6,331 	"/>
 </g>
 </svg>
