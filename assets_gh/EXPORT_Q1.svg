@@ -3,36 +3,42 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 401.2 421.2" style="enable-background:new 0 0 401.2 421.2;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
-	.st1{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linecap:square;stroke-linejoin:bevel;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
-	.st3{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st0{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st1{display:none;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st2{display:none;}
+	.st3{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linecap:square;stroke-miterlimit:10;}
 	.st4{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
-	.st5{display:none;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st5{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
 </style>
-<g id="_x33_" class="st0">
-	<path class="st1" d="M114.2,298.5c0,18,14.6,32.5,32.5,32.5c2.9,0,5.8-0.4,8.5-1.1l-37.5-46.1C115.5,288.2,114.2,293.2,114.2,298.5
+<g id="_x34_">
+	<path class="st0" d="M113.9,298.3c0,18,14.6,32.5,32.5,32.5c2,0,4-0.2,6-0.6l-34.3-47.9C115.4,287.1,113.9,292.5,113.9,298.3z"/>
+	<path class="st1" d="M174.6,314.4c2.7-4.7,4.3-10.2,4.3-16.1c0-18-14.6-32.5-32.5-32.5c-7,0-13.4,2.2-18.7,5.9l1.1,1.6"/>
+	<polyline class="st1" points="164.2,299.9 186.4,330.8 170,330.8 128.8,273.3 	"/>
+	<line class="st1" x1="170.1" y1="299.9" x2="160.1" y2="299.9"/>
+</g>
+<g id="_x33_" class="st2">
+	<path class="st3" d="M114.2,298.5c0,18,14.6,32.5,32.5,32.5c2.9,0,5.8-0.4,8.5-1.1l-37.5-46.1C115.5,288.2,114.2,293.2,114.2,298.5
 		z"/>
-	<path class="st2" d="M127.8,274.8l-1.2-1.6c5.5-4.5,12.6-7.1,20.2-7.1c17.9,0,32.5,14.5,32.5,32.5c0,5.2-1.3,10.2-3.5,14.6"/>
-	<polyline class="st2" points="165,300.1 190.2,331 173.8,331.1 126.6,273.1 	"/>
-	<line class="st2" x1="161.6" y1="300.1" x2="171.6" y2="300.1"/>
+	<path class="st4" d="M127.8,274.8l-1.2-1.6c5.5-4.5,12.6-7.1,20.2-7.1c17.9,0,32.5,14.5,32.5,32.5c0,5.2-1.3,10.2-3.5,14.6"/>
+	<polyline class="st4" points="165,300.1 190.2,331 173.8,331.1 126.6,273.1 	"/>
+	<line class="st4" x1="161.6" y1="300.1" x2="171.6" y2="300.1"/>
 </g>
-<g id="_x32_" class="st0">
-	<line class="st3" x1="169.2" y1="300.1" x2="159.2" y2="300.1"/>
-	<polyline class="st3" points="116.8,274.7 177.2,331 197.1,331 163.8,300 	"/>
+<g id="_x32_" class="st2">
+	<line class="st5" x1="169.2" y1="300.1" x2="159.2" y2="300.1"/>
+	<polyline class="st5" points="116.8,274.7 177.2,331 197.1,331 163.8,300 	"/>
 	<path class="st4" d="M119.6,321.9c9.5,9,23.1,11.2,34.5,6.5l-43-40.6C107.2,299.5,110,312.9,119.6,321.9z"/>
-	<path class="st2" d="M172.7,308.3c3.7-12.8,0.3-25-8.8-33.5c-13-12.1-33.4-11.5-45.6,1.2"/>
+	<path class="st4" d="M172.7,308.3c3.7-12.8,0.3-25-8.8-33.5c-13-12.1-33.4-11.5-45.6,1.2"/>
 </g>
-<g id="_x31_" class="st0">
+<g id="_x31_" class="st2">
 	<path class="st4" d="M116.8,311c5,12.1,16.6,19.6,28.9,20l-22.8-54.5C114.5,285.5,111.7,298.9,116.8,311z"/>
 	<path class="st4" d="M171.8,319.1c7.4-9,9.7-21.7,4.9-33.2c-6.9-16.4-25.7-24.2-42.1-17.6"/>
 	<polyline class="st4" points="133.9,266.6 160.9,331 176.8,331 163.8,300 	"/>
 	<line class="st4" x1="168.8" y1="300" x2="158.8" y2="300"/>
 </g>
-<g id="_x30_">
-	<path class="st2" d="M114.1,298.5c0,13.1,7.8,24.4,19,29.6v-59.2C121.9,274.1,114.1,285.4,114.1,298.5z"/>
-	<path class="st5" d="M164.5,325.6c8.8-5.8,14.6-15.8,14.6-27.1c0-17.8-14.3-32.2-32-32.5"/>
-	<polyline class="st5" points="147.1,264 147.1,330.9 163.5,330.9 163.5,300 	"/>
-	<line class="st5" x1="168.5" y1="300" x2="158.5" y2="300"/>
+<g id="_x30_" class="st2">
+	<path class="st4" d="M114.1,298.5c0,13.1,7.8,24.4,19,29.6v-59.2C121.9,274.1,114.1,285.4,114.1,298.5z"/>
+	<path class="st4" d="M164.5,325.6c8.8-5.8,14.6-15.8,14.6-27.1c0-17.8-14.3-32.2-32-32.5"/>
+	<polyline class="st4" points="147.1,264 147.1,330.9 163.5,330.9 163.5,300 	"/>
+	<line class="st4" x1="168.5" y1="300" x2="158.5" y2="300"/>
 </g>
 </svg>
