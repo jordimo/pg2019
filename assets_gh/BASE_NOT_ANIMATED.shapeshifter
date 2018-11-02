@@ -1,0 +1,979 @@
+{
+  "version": 1,
+  "layers": {
+    "vectorLayer": {
+      "id": "11645",
+      "name": "vector",
+      "type": "vector",
+      "width": 401,
+      "height": 421,
+      "children": [
+        {
+          "id": "11646",
+          "name": "e0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11647",
+              "name": "e0_0",
+              "type": "path",
+              "pathData": "M 46 2 L 51 2 L 51 37 L 81.6 37 L 81.6 36.9 L 51 36.9 L 51 67",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeLinejoin": "bevel",
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11648",
+              "name": "e0_1",
+              "type": "path",
+              "pathData": "M 46 67 L 99.5 67 L 99.5 62",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11649",
+              "name": "e0_2",
+              "type": "path",
+              "pathData": "M 64.6 37 L 64.6 2 L 99.5 2 L 99.5 7",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11650",
+              "name": "e0_3",
+              "type": "path",
+              "pathData": "M 64.6 67 L 64.6 37",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11651",
+          "name": "u0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11652",
+              "name": "u0_0",
+              "type": "path",
+              "pathData": "M 199.7 44.7 L 199.7 2 L 194.7 2",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11653",
+              "name": "u0_1",
+              "type": "path",
+              "pathData": "M 199.7 44.7 C 199.7 54.2 205.7 61.4 214.1 64.6 L 214 6.5 L 214 2 L 219 2",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11654",
+              "name": "u0_2",
+              "type": "path",
+              "pathData": "M 249.3 2 L 230 2 L 230 65.5 C 238.4 62.3 244.3 54.2 244.3 44.7",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11655",
+              "name": "u0_3",
+              "type": "path",
+              "pathData": "M 249.3 2 L 244.3 2 L 244.3 44.7",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11656",
+          "name": "q0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11657",
+              "name": "q0_0",
+              "type": "path",
+              "pathData": "M 114.2 34.5 C 114.2 47.6 122 58.9 133.2 64.1 L 133.2 4.9 C 122 10.1 114.2 21.4 114.2 34.5 Z",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11658",
+              "name": "q0_1",
+              "type": "path",
+              "pathData": "M 147.2 0 L 147.2 66.9 L 163.6 66.9 L 163.6 36",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11659",
+              "name": "q0_2",
+              "type": "path",
+              "pathData": "M 164.6 61.6 C 173.4 55.8 179.2 45.8 179.2 34.5 C 179.2 16.7 164.9 2.3 147.2 2",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11660",
+          "name": "a0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11661",
+              "name": "a0_0",
+              "type": "path",
+              "pathData": "M 287.1 2 L 303.1 2",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11662",
+              "name": "a0_1",
+              "type": "path",
+              "pathData": "M 280.9 67 L 285.9 67",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11663",
+              "name": "a0_2",
+              "type": "path",
+              "pathData": "M 319.6 67 L 329.6 67",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11664",
+              "name": "a0_3",
+              "type": "path",
+              "pathData": "M 280.9 67 L 264.9 67",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11665",
+              "name": "a0_4",
+              "type": "path",
+              "pathData": "M 259.9 67 L 264.9 67",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11666",
+              "name": "a0_5",
+              "type": "path",
+              "pathData": "M 292.1 2 L 277.4 37 L 312.6 36.7 L 303 13.9 L 293.5 36.7",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11667",
+              "name": "a0_6",
+              "type": "path",
+              "pathData": "M 264.9 67 L 277.4 37 L 312.6 36.7 L 325.2 67",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11668",
+              "name": "a0_7",
+              "type": "path",
+              "pathData": "M 293.5 36.7 L 280.9 67",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11669",
+          "name": "l0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11670",
+              "name": "l0_0",
+              "type": "path",
+              "pathData": "M 345.3 2 L 350.1 2 L 350.1 67.1 L 364.1 67",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11671",
+              "name": "l0_1",
+              "type": "path",
+              "pathData": "M 364.1 67 L 364.1 2 L 369.9 2",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11672",
+              "name": "l0_2",
+              "type": "path",
+              "pathData": "M 345.3 67 L 398.8 67 L 398.8 62",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11673",
+          "name": "p0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11674",
+              "name": "p0_0",
+              "type": "path",
+              "pathData": "M 135.4 90 L 163.6 90 C 172.9 89.9 182.4 96 182.4 107.5 C 182.4 119.4 172 125.5 164.9 125 L 140.4 125 L 140.4 90",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeLinejoin": "bevel",
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11675",
+              "name": "p0_1",
+              "type": "path",
+              "pathData": "M 140.4 155 L 140.4 90 L 140.9 117.9 L 140.4 155",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeLinejoin": "bevel",
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11676",
+              "name": "p0_2",
+              "type": "path",
+              "pathData": "M 142.1 90 L 135.4 90",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11677",
+              "name": "p0_4",
+              "type": "path",
+              "pathData": "M 145.4 155 L 135.4 155",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11678",
+          "name": "a1",
+          "type": "group",
+          "children": [
+            {
+              "id": "11679",
+              "name": "a1_0s",
+              "type": "path",
+              "pathData": "M 182.5 155 L 187.5 155",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11680",
+              "name": "a1_1s",
+              "type": "path",
+              "pathData": "M 209.7 90 L 225.7 90",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11681",
+              "name": "a1_2s",
+              "type": "path",
+              "pathData": "M 203.5 155 L 208.5 155",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11682",
+              "name": "a1_3s",
+              "type": "path",
+              "pathData": "M 203.5 155 L 187.5 155",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11683",
+              "name": "a1_4s",
+              "type": "path",
+              "pathData": "M 242.2 155 L 252.2 155",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11684",
+              "name": "a1_5",
+              "type": "path",
+              "pathData": "M 216.1 124.7 L 203.5 155",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11685",
+              "name": "a1_6",
+              "type": "path",
+              "pathData": "M 214.7 90 L 200 125 L 235.2 124.7 L 225.6 101.9 L 216.1 124.7",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11686",
+              "name": "a1_6_1",
+              "type": "path",
+              "pathData": "M 187.5 155 L 200 125 L 235.2 124.7 L 247.8 155",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11687",
+          "name": "y0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11688",
+              "name": "y0_0",
+              "type": "path",
+              "pathData": "M 248.8 90 L 275.3 90",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11689",
+              "name": "y0_1",
+              "type": "path",
+              "pathData": "M 265.3 155 L 270.4 155 L 270.4 131.9 L 252.9 90 L 269.4 90",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11690",
+              "name": "y0_2",
+              "type": "path",
+              "pathData": "M 269.4 90 L 286.8 131.9 L 286.8 155 L 291.9 155",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11691",
+              "name": "y0_3",
+              "type": "path",
+              "pathData": "M 304.3 90 L 286.8 131.9",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11692",
+              "name": "y0_4",
+              "type": "path",
+              "pathData": "M 298.5 90 L 308.5 90",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11693",
+          "name": "f0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11694",
+              "name": "f0_0",
+              "type": "path",
+              "pathData": "M 127.5 178.1 L 122.5 178.1",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11695",
+              "name": "f0_1",
+              "type": "path",
+              "pathData": "M 127.5 198.5 L 127.5 220.1",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11696",
+              "name": "f0_2",
+              "type": "path",
+              "pathData": "M 176 178.1 L 127.5 178.1 L 127.5 213 L 158.1 213 L 158.1 213.2 L 127.5 213.2 L 127.5 243.1 L 122.5 243.1",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11697",
+              "name": "f0_3",
+              "type": "path",
+              "pathData": "M 146 243.1 L 141.1 243.1 L 141.1 198.6",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11698",
+              "name": "f0_4",
+              "type": "path",
+              "pathData": "M 141.1 213.2 L 141.1 178.1 L 176 178.1 L 176 183",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11699",
+          "name": "o0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11700",
+              "name": "o0_0",
+              "type": "path",
+              "pathData": "M 218.8 242.9 L 213.7 242.9",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4
+            },
+            {
+              "id": "11701",
+              "name": "o0_1",
+              "type": "path",
+              "pathData": "M 218.9 177.9 L 213.7 177.9",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4
+            },
+            {
+              "id": "11702",
+              "name": "o0_2",
+              "type": "path",
+              "pathData": "M 218.9 242.9 C 236.9 242.9 251.4 228.3 251.4 210.4 C 251.4 192.5 236.8 177.9 218.9 177.9 L 218.9 242.9 Z",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4
+            },
+            {
+              "id": "11703",
+              "name": "o0_3",
+              "type": "path",
+              "pathData": "M 205.3 180.7 C 188.9 188 181.5 207.2 188.8 223.6 C 192.2 231.2 198.3 237.2 205.9 240.4 L 205.3 180.7 Z",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeLinejoin": "bevel"
+            }
+          ]
+        },
+        {
+          "id": "11704",
+          "name": "r0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11705",
+              "name": "r0_0",
+              "type": "path",
+              "pathData": "M 317.6 243.1 L 295.3 213 L 270.8 213 L 270.8 178 L 270.8 243",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeLinejoin": "bevel",
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11706",
+              "name": "r0_1",
+              "type": "path",
+              "pathData": "M 270.8 178 L 270.8 213 L 295.3 213 C 305 213 312.8 205.1 312.8 195.5 C 312.8 185.8 304.9 178 295.3 178",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11707",
+              "name": "r0_2",
+              "type": "path",
+              "pathData": "M 295.3 178 L 265.8 178",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11708",
+              "name": "r0_3",
+              "type": "path",
+              "pathData": "M 322.6 243.1 L 312.6 243.1",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11709",
+              "name": "r0_4",
+              "type": "path",
+              "pathData": "M 275.8 243.1 L 265.8 243.1",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11710",
+          "name": "e1",
+          "type": "group",
+          "children": [
+            {
+              "id": "11711",
+              "name": "e1_0",
+              "type": "path",
+              "pathData": "M 46 331 L 99.4 331 L 99.4 326",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11712",
+              "name": "e1_1",
+              "type": "path",
+              "pathData": "M 46 331 L 99.6 331 L 99.6 326",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11713",
+              "name": "e1_2",
+              "type": "path",
+              "pathData": "M 46 266 L 51 266 L 51 301 L 81.6 301 L 81.6 300.9 L 51 300.9 L 51 331",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11714",
+              "name": "e1_3",
+              "type": "path",
+              "pathData": "M 64.6 301 L 64.6 266 L 99.4 266 L 99.4 271",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11715",
+              "name": "e1_4",
+              "type": "path",
+              "pathData": "M 64.6 331 L 64.6 301",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11716",
+          "name": "q1",
+          "type": "group",
+          "children": [
+            {
+              "id": "11717",
+              "name": "q1_0",
+              "type": "path",
+              "pathData": "M 168.5 300 L 158.5 300",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11718",
+              "name": "q1_1",
+              "type": "path",
+              "pathData": "M 147.1 264 L 147.1 330.9 L 163.5 330.9 L 163.5 300",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11719",
+              "name": "q1_2",
+              "type": "path",
+              "pathData": "M 164.5 325.6 C 173.3 319.8 179.1 309.8 179.1 298.5 C 179.1 280.7 164.8 266.3 147.1 266",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11720",
+              "name": "q1_3",
+              "type": "path",
+              "pathData": "M 114.1 298.5 C 114.1 311.6 121.9 322.9 133.1 328.1 L 133.1 268.9 C 121.9 274.1 114.1 285.4 114.1 298.5 Z",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11721",
+          "name": "u1",
+          "type": "group",
+          "children": [
+            {
+              "id": "11722",
+              "name": "u1_0",
+              "type": "path",
+              "pathData": "M 199.8 308 L 199.8 265.3 L 194.8 265.3",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11723",
+              "name": "u1_1",
+              "type": "path",
+              "pathData": "M 199.8 308 C 199.8 317.5 205.8 324.7 214.2 327.9 L 214.1 269.8 L 214.1 265.3 L 219.1 265.3",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11724",
+              "name": "u1_2",
+              "type": "path",
+              "pathData": "M 249.4 265.3 L 230.1 265.3 L 230.1 328.8 C 238.5 325.6 244.4 317.5 244.4 308",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11725",
+              "name": "u1_3",
+              "type": "path",
+              "pathData": "M 249.4 265.3 L 244.4 265.3 L 244.4 308",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11726",
+          "name": "a2",
+          "type": "group",
+          "children": [
+            {
+              "id": "11727",
+              "name": "a2_0",
+              "type": "path",
+              "pathData": "M 260.1 331 L 286.1 331",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4
+            },
+            {
+              "id": "11728",
+              "name": "a2_1",
+              "type": "path",
+              "pathData": "M 319.9 331 L 329.9 331",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11729",
+              "name": "a2_2",
+              "type": "path",
+              "pathData": "M 287.4 266 L 303.4 266",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11730",
+              "name": "a2_3",
+              "type": "path",
+              "pathData": "M 293.8 300.7 L 281.1 331",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11731",
+              "name": "a2_4",
+              "type": "path",
+              "pathData": "M 292.4 266 L 277.6 301 L 312.9 300.7 L 303.2 277.9 L 293.8 300.7",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11732",
+              "name": "a2_5",
+              "type": "path",
+              "pathData": "M 265.1 331 L 277.6 301 L 312.9 300.7 L 325.5 331",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11733",
+          "name": "l1",
+          "type": "group",
+          "children": [
+            {
+              "id": "11734",
+              "name": "l1_0",
+              "type": "path",
+              "pathData": "M 345.3 266 L 350.1 266 L 350.1 331 L 357.6 331",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11735",
+              "name": "l1_1",
+              "type": "path",
+              "pathData": "M 357.6 331 L 364.1 331 L 364.1 266 L 369.9 266",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11736",
+              "name": "l1_2",
+              "type": "path",
+              "pathData": "M 340.3 331.1 L 393.8 331.1 L 393.8 326.1",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4
+            }
+          ]
+        },
+        {
+          "id": "11737",
+          "name": "w0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11738",
+              "name": "w0_0",
+              "type": "path",
+              "pathData": "M 75.4 354 L 80.4 354 L 80.4 419 L 108.4 419 L 134.6 354 L 95.2 354 L 95.2 381.9",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11739",
+              "name": "w0_1",
+              "type": "path",
+              "pathData": "M 116.1 399.9 L 124.1 419 L 149.2 419 L 149.2 354 L 154.2 354",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11740",
+          "name": "o1",
+          "type": "group",
+          "children": [
+            {
+              "id": "11741",
+              "name": "o1_0",
+              "type": "path",
+              "pathData": "M 197.7 418.6 L 192.6 418.6",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4
+            },
+            {
+              "id": "11742",
+              "name": "o1_1",
+              "type": "path",
+              "pathData": "M 197.8 353.6 L 192.6 353.6",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4
+            },
+            {
+              "id": "11743",
+              "name": "o1_2",
+              "type": "path",
+              "pathData": "M 197.8 418.6 C 215.8 418.6 230.3 404 230.3 386.1 C 230.3 368.2 215.7 353.6 197.8 353.6 L 197.8 418.6 Z",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4
+            },
+            {
+              "id": "11744",
+              "name": "o1_3",
+              "type": "path",
+              "pathData": "M 184.2 356.4 C 167.8 363.7 160.4 382.9 167.7 399.3 C 171.1 406.9 177.2 412.9 184.8 416.1 L 184.2 356.4 Z",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeLinejoin": "bevel"
+            }
+          ]
+        },
+        {
+          "id": "11745",
+          "name": "r1",
+          "type": "group",
+          "children": [
+            {
+              "id": "11746",
+              "name": "r1_0",
+              "type": "path",
+              "pathData": "M 252.9 419.1 L 242.9 419.1",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11747",
+              "name": "r1_1",
+              "type": "path",
+              "pathData": "M 299.7 419.1 L 289.7 419.1",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11748",
+              "name": "r1_2",
+              "type": "path",
+              "pathData": "M 294.7 419.1 L 272.4 389 L 247.9 389 L 247.9 354 L 247.9 419",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeLinejoin": "bevel",
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11749",
+              "name": "r1_3",
+              "type": "path",
+              "pathData": "M 272.4 354 C 282 354 289.9 361.8 289.9 371.5 C 289.9 381.1 282.1 389 272.4 389 L 247.9 389 L 247.9 354",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11750",
+              "name": "r1_4",
+              "type": "path",
+              "pathData": "M 272.4 354 L 242.9 354",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        },
+        {
+          "id": "11751",
+          "name": "k0",
+          "type": "group",
+          "children": [
+            {
+              "id": "11752",
+              "name": "k0_0",
+              "type": "path",
+              "pathData": "M 366.8 354 L 361.8 354 L 350.1 382 L 350.1 419 L 313.6 419",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11753",
+              "name": "k0_1",
+              "type": "path",
+              "pathData": "M 369.8 419 L 359.8 419",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11754",
+              "name": "k0_2",
+              "type": "path",
+              "pathData": "M 313.6 354 L 318.6 354 L 318.6 419",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11755",
+              "name": "k0_3",
+              "type": "path",
+              "pathData": "M 350.1 382 L 365.6 419",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            },
+            {
+              "id": "11756",
+              "name": "k0_4",
+              "type": "path",
+              "pathData": "M 315.2 354 L 332.6 354 L 332.6 419 L 315.2 419",
+              "strokeColor": "#ee255c",
+              "strokeWidth": 4,
+              "strokeMiterLimit": 10
+            }
+          ]
+        }
+      ]
+    },
+    "hiddenLayerIds": []
+  },
+  "timeline": {
+    "animation": {
+      "id": "11757",
+      "name": "anim",
+      "duration": 300,
+      "blocks": []
+    }
+  }
+}
