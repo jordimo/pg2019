@@ -41,13 +41,13 @@ function setState(idState) {
     for (var g in GROUPS) {
         for (var c in GROUPS[g]) {
             var ca = anime({
-                targets: c,
-                strokecolor : color,
+                targets: '#'+GROUPS[g][c],
+                stroke : color,
                 easing : 'easeOutQuad',
-                duration: 100
+                duration: 100,        
             })
 
-            console.log(c, ca)
+            // console.log(document.getElementById(GROUPS[g][c]))
         }
     }
 }
