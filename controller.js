@@ -8,7 +8,8 @@ var GROUPS = {}
 var STATE_COLORS = [
     '#fc0',
     '#cf0',
-    '#0fc'
+    '#0fc',
+    '#c0f'
 ]
 
 function setState(idState) {
@@ -23,8 +24,16 @@ function setState(idState) {
         _values.push(s.endValue)
     })
 
+    // console.log(STATES[idState])
 
+    // var TEST = 9
+    // _targets = _targets.slice(TEST, TEST+1)
+    // _values = _values.slice(TEST, TEST+1)
+    
+
+    
     for (var i=0; i<_targets.length; i++ ) {
+        console.log(_targets[i]);
         var a= anime({
             targets: _targets[i],
             d : _values[i],
@@ -78,9 +87,6 @@ function init(json_obj) {
     var JSON_groups = JSON_layers.find("type", function() {
         return this == 'group'
     }).sibling('name').value()
-
-
-    console.log(JSON_groups)
 
     // 2. Get Children names per group
     for (var g of JSON_groups) 
@@ -159,4 +165,4 @@ function loadJSON(url, callback) {
   }
 
 
-  getJsonObject('./data/data3.json');
+  getJsonObject('./data/data4.json');
