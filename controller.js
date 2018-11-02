@@ -1,3 +1,12 @@
+
+//* --- *//
+
+
+var LAYERS_DICT = {};
+var STATES = {}
+
+
+
 function setState(idState) {
 
     idState = parseInt(idState)
@@ -10,14 +19,7 @@ function setState(idState) {
         _values.push(s.endValue)
     })
 
-    
-    
-    var _testID = 2;
-    
-    var t = _targets[_testID]
-    var v = _values[_testID]
 
-    console.log(_targets)
     for (var i=0; i<_targets.length; i++ ) {
         var a= anime({
             targets: _targets[i],
@@ -27,17 +29,15 @@ function setState(idState) {
             
         })
     }
-        
+
+    // change colors
+
 }
 
 function getJsonObject(url) {
 
     loadJSON(url, init)
 }
-
-var LAYERS_DICT = {};
-var STATES = {}
-
 
 
 function init(json_obj) {
@@ -55,13 +55,17 @@ function init(json_obj) {
         LAYERS_DICT[p.id] = p.name
     });
 
-      
+    // save 'name' by GROUPS
+    var jgroups = jsonQ(json_obj['layers']['vectorLayer'])
+    var JSON_groups = JSON_layers.find("type", function() {
+        return this === 'group'
+    }).value()
+    
+    console.log(jgroups)
 
     // and then get from timeline (endtime property / 100)
 
-    var JSON_states = json_obj['timeline']['animation']['blocks']
-    
-    
+    var JSON_states = json_obj['timeline']['animation']['blocks']    
     JSON_states.map(function(a) {
         var state = a.endTime/100;
         var layerId = a.layerId;
@@ -86,22 +90,21 @@ function init(json_obj) {
         }
     })
 
-    // reset svg with 0 state
-    STATES[0].map(function(s0) {
-        console.log(s0.layerId, LAYERS_DICT[s0.layerId])
-        try {
-            // document.getElementById(LAYERS_DICT[s0.layerId]).setAttribute('d', s0.endValue)
-        }
-        catch(e) {
-            throw Error('not found ' + s0.layerId)
-        }
+    // // reset svg with 0 state
+    // STATES[0].map(function(s0) {
+    //     console.log(s0.layerId, LAYERS_DICT[s0.layerId])
+    //     try {
+    //         // document.getElementById(LAYERS_DICT[s0.layerId]).setAttribute('d', s0.endValue)
+    //     }
+    //     catch(e) {
+    //         throw Error('not found ' + s0.layerId)
+    //     }
         
-    })
+    // })
 
-    console.log(STATES)
+    // console.log(STATES)
 }
 
-getJsonObject('./data/data3.json');
 
 
 // ------------- UTILS (not sure what libs you using. Tried to keep it all Vanilla except animejs )
@@ -117,3 +120,6 @@ function loadJSON(url, callback) {
     };
     xobj.send(null);  
   }
+
+
+  getJsonObject('./data/data3.json');
