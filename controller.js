@@ -9,7 +9,8 @@ var STATE_COLORS = [
     '#fc0',
     '#cf0',
     '#0fc',
-    '#c0f'
+    '#c0f', 
+    '#f0c',
 ]
 
 function setState(idState) {
@@ -38,27 +39,27 @@ function setState(idState) {
             targets: _targets[i],
             d : _values[i],
             easing: 'easeOutQuad',
-            duration : 100,        
+            duration : 1000,        
             
         })
     }
 
     // change colors
 
-    var color = STATE_COLORS[idState]
+    // var color = STATE_COLORS[idState]
 
-    for (var g in GROUPS) {
-        for (var c in GROUPS[g]) {
-            var ca = anime({
-                targets: '#'+GROUPS[g][c],
-                stroke : color,
-                easing : 'easeOutQuad',
-                duration: 100,        
-            })
+    // for (var g in GROUPS) {
+    //     for (var c in GROUPS[g]) {
+    //         var ca = anime({
+    //             targets: '#'+GROUPS[g][c],
+    //             stroke : color,
+    //             easing : 'easeOutQuad',
+    //             duration: 1000,        
+    //         })
 
-            // console.log(document.getElementById(GROUPS[g][c]))
-        }
-    }
+    //         // console.log(document.getElementById(GROUPS[g][c]))
+    //     }
+    // }
 }
 
 function getJsonObject(url) {
@@ -165,4 +166,4 @@ function loadJSON(url, callback) {
   }
 
 
-  getJsonObject('./data/data4.json');
+  getJsonObject('./data/data7.json?'+Math.random());
