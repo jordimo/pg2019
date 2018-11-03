@@ -11,6 +11,7 @@ var STATE_COLORS = [
     '#0fc',
     '#c0f', 
     '#f0c',
+    '#0fc',
 ]
 
 function setState(idState) {
@@ -39,27 +40,27 @@ function setState(idState) {
             targets: _targets[i],
             d : _values[i],
             easing: 'easeOutQuad',
-            duration : 1000,        
+            duration : 100,        
             
         })
     }
 
     // change colors
 
-    // var color = STATE_COLORS[idState]
+    var color = STATE_COLORS[idState]
 
-    // for (var g in GROUPS) {
-    //     for (var c in GROUPS[g]) {
-    //         var ca = anime({
-    //             targets: '#'+GROUPS[g][c],
-    //             stroke : color,
-    //             easing : 'easeOutQuad',
-    //             duration: 1000,        
-    //         })
+    for (var g in GROUPS) {
+        for (var c in GROUPS[g]) {
+            var ca = anime({
+                targets: '#'+GROUPS[g][c],
+                stroke : color,
+                easing : 'easeOutQuad',
+                duration: 100,        
+            })
 
-    //         // console.log(document.getElementById(GROUPS[g][c]))
-    //     }
-    // }
+            // console.log(document.getElementById(GROUPS[g][c]))
+        }
+    }
 }
 
 function getJsonObject(url) {
