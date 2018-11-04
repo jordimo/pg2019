@@ -8,10 +8,15 @@
 	.st2{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
 	.st3{display:inline;}
 </style>
-<g id="_x37_">
-	<path class="st0" d="M249.1,266h-5c-0.3-0.3-22.9,54.9-27,64.5c12,3,27.4-6.4,27-21.8V266"/>
-	<path class="st0" d="M199.5,308c0,1.8,0.4,9.4,4.9,14.6l20.9-49.9l2.8-6.8h-5"/>
-	<polyline class="st0" points="199.5,308 199.5,265.7 194.5,265.7 	"/>
+<g id="_x38_">
+	<path class="st0" d="M248.7,266l-10.7,0c-0.7,2.5-14.1,52.8-17.3,65c11.6,0,23-7.9,23-22.3l0.1-42.7"/>
+	<path class="st0" d="M199.1,308.7c0,5,2.1,12.7,8.7,17.7l14.4-53.9l1.7-6.5h-5"/>
+	<polyline class="st0" points="199.1,308.7 199.1,266 194.1,266 	"/>
+</g>
+<g id="_x37_" class="st1">
+	<path class="st2" d="M249.1,266h-5c-0.3-0.3-22.9,54.9-27,64.5c12,3,27.4-6.4,27-21.8V266"/>
+	<path class="st2" d="M199.5,308c0,1.8,0.4,9.4,4.9,14.6l20.9-49.9l2.8-6.8h-5"/>
+	<polyline class="st2" points="199.5,308 199.5,265.7 194.5,265.7 	"/>
 </g>
 <g id="_x36_" class="st1">
 	<path class="st2" d="M251.2,277.5l-5.4,9.3c0,0-20.5,34.3-24.9,42.6c12.6,5.6,31.3-3.9,30.7-20.7v-32.3"/>

@@ -9,10 +9,15 @@
 	.st3{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
 	.st4{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
 </style>
-<g id="_x37_">
-	<path class="st0" d="M263.7,354.3l11.7,27.7l2.2-0.1c10.6-2,12.2-10.5,12.3-14l0,0c0-6.8-5.4-13.9-14.1-13.9"/>
-	<line class="st1" x1="275.9" y1="354" x2="242.8" y2="354"/>
-	<polyline class="st1" points="294.6,419.2 284.9,396 265.3,396 247.7,354 247.7,419.2 	"/>
+<g id="_x38_">
+	<path class="st0" d="M263.4,354l7.5,28h6.5c11.3-0.7,13.9-10.5,14-14l0,0c0-6.8-5.3-14-14-14"/>
+	<line class="st1" x1="277.3" y1="354" x2="244.3" y2="354"/>
+	<polyline class="st1" points="296.2,419.2 286.5,396 260.5,396 249.3,354 249.3,419.2 	"/>
+</g>
+<g id="_x37_" class="st2">
+	<path class="st3" d="M263.7,354.3l11.7,27.7l2.2-0.1c10.6-2,12.2-10.5,12.3-14l0,0c0-6.8-5.4-13.9-14.1-13.9"/>
+	<line class="st4" x1="275.9" y1="354" x2="242.8" y2="354"/>
+	<polyline class="st4" points="294.6,419.2 284.9,396 265.3,396 247.7,354 247.7,419.2 	"/>
 </g>
 <g id="_x36_" class="st2">
 	<path class="st3" d="M263.8,353.6l16,27.4l1.6-0.5c6.9-3.1,8.5-9.1,8.6-12.6l0,0c0-6.8-5.3-14.3-14-14.3"/>

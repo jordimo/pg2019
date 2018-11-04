@@ -11,10 +11,15 @@
 	.st5{display:none;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
 	.st6{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
 </style>
-<g id="_x37_">
+<g id="_x38_">
 	<polyline class="st0" points="345,331.1 398.6,331.1 398.6,326.1 	"/>
 	<polyline class="st0" points="364.1,331 364.1,266 369.9,266 	"/>
-	<polyline class="st0" points="345.1,266 350.1,266 350.1,297.6 364.1,331 	"/>
+	<polyline class="st0" points="345.1,266 350.1,266 349.7,309 364.1,331 	"/>
+</g>
+<g id="_x37_" class="st1">
+	<polyline class="st2" points="345,331.1 398.6,331.1 398.6,326.1 	"/>
+	<polyline class="st2" points="364.1,331 364.1,266 369.9,266 	"/>
+	<polyline class="st2" points="345.1,266 350.1,266 350.1,297.6 364.1,331 	"/>
 </g>
 <g id="_x36_" class="st1">
 	<polyline class="st2" points="340.2,331.1 393.8,331.1 393.8,326.1 	"/>

@@ -8,10 +8,15 @@
 	.st2{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
 	.st3{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
 </style>
-<g id="_x37_">
-	<line class="st0" x1="213.3" y1="131.8" x2="203.9" y2="154.5"/>
-	<polyline class="st0" points="187.9,154.5 197.4,131.8 238.4,131.8 248.3,154.5 	"/>
-	<polyline class="st0" points="215.1,89.5 203.3,117.8 232.6,117.8 226.1,101.4 219.1,117.8 	"/>
+<g id="_x38_">
+	<line class="st0" x1="213.3" y1="129.5" x2="202.6" y2="155"/>
+	<polyline class="st0" points="186.7,155 197.4,129.5 236.4,129.5 247,155 	"/>
+	<polyline class="st0" points="213.9,90 201.2,120.3 232.5,120.3 224.8,101.9 216.9,120.3 	"/>
+</g>
+<g id="_x37_" class="st1">
+	<line class="st2" x1="213.3" y1="131.8" x2="203.9" y2="154.5"/>
+	<polyline class="st2" points="187.9,154.5 197.4,131.8 238.4,131.8 248.3,154.5 	"/>
+	<polyline class="st2" points="215.1,89.5 203.3,117.8 232.6,117.8 226.1,101.4 219.1,117.8 	"/>
 </g>
 <g id="_x36_" class="st1">
 	<line class="st2" x1="212.5" y1="133.7" x2="203.9" y2="154.5"/>

@@ -8,11 +8,17 @@
 	.st2{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
 	.st3{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
 </style>
-<g id="_x37_">
-	<polyline class="st0" points="64.8,293.8 64.8,265.9 99.7,265.9 99.7,270.9 	"/>
-	<line class="st0" x1="64.8" y1="330.9" x2="64.8" y2="307.9"/>
-	<polyline class="st0" points="46.2,265.9 51.2,265.9 51.2,293.8 81.8,293.9 81.8,307.8 51.2,307.8 51.2,330.9 	"/>
-	<polyline class="st0" points="99.7,325.9 99.7,330.9 46.2,330.9 	"/>
+<g id="_x38_">
+	<polyline class="st0" points="64,296.3 64,266 99,266 99,271 	"/>
+	<line class="st0" x1="64" y1="331" x2="64" y2="305.5"/>
+	<polyline class="st0" points="45.4,266 50.4,266 50.4,296.3 81,296.3 81,305.5 50.4,305.5 50.4,331 	"/>
+	<polyline class="st0" points="99,326.1 99,331.1 45.4,331.1 	"/>
+</g>
+<g id="_x37_" class="st1">
+	<polyline class="st2" points="64.8,293.8 64.8,265.9 99.7,265.9 99.7,270.9 	"/>
+	<line class="st2" x1="64.8" y1="330.9" x2="64.8" y2="307.9"/>
+	<polyline class="st2" points="46.2,265.9 51.2,265.9 51.2,293.8 81.8,293.9 81.8,307.8 51.2,307.8 51.2,330.9 	"/>
+	<polyline class="st2" points="99.7,325.9 99.7,330.9 46.2,330.9 	"/>
 </g>
 <g id="_x36_" class="st1">
 	<polyline class="st2" points="64.8,291.6 64.8,265.9 99.7,265.9 99.7,270.9 	"/>
