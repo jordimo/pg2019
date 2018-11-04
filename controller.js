@@ -12,6 +12,7 @@ var STATE_COLORS = [
     '#c0f', 
     '#f0c',
     '#0fc',
+    '#cf0',
 ]
 
 function setState(idState) {

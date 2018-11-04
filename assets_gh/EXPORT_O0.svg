@@ -1,56 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 401.2 421.2" style="enable-background:new 0 0 401.2 421.2;" xml:space="preserve">
 <style type="text/css">
-	.st0{display:none;}
-	.st1{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
-	.st2{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
-	.st3{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
-	.st4{display:none;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st0{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st1{display:none;}
+	.st2{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st3{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
 </style>
-<g id="Layer_1" class="st0">
-	<g id="_x35_">
-		<path class="st1" d="M188.2,199.4c-5.8,17,3.6,35.3,20.7,41c7.8,2.7,15,2.6,22.5-0.8L188.2,199.4z"/>
-		<path class="st1" d="M242.4,232.4c12.3-13.2,11.6-33.7-1.6-46s-33.7-11.6-46,1.6L242.4,232.4z"/>
-		<line class="st1" x1="195" y1="188.1" x2="191.5" y2="191.8"/>
-		<line class="st1" x1="242.6" y1="232.4" x2="239" y2="236.1"/>
-	</g>
-	<g id="_x34__1_">
-		<path class="st1" d="M189.9,194.2c-9,15.5-3.4,35.3,12.2,44.3c7.1,4.2,14.2,5.5,22.2,3.6L189.9,194.2z"/>
-		<path class="st1" d="M237.7,236.7c14.6-10.5,18-30.8,7.5-45.4s-30.8-18-45.4-7.5L237.7,236.7z"/>
-		<line class="st1" x1="199.8" y1="183.9" x2="195.7" y2="186.9"/>
-		<line class="st1" x1="237.8" y1="236.7" x2="233.5" y2="239.6"/>
-	</g>
-	<g id="_x33_">
-		<path class="st1" d="M189.4,195.9c-8,16.1-1.5,35.6,14.6,43.6c7.4,3.7,16,4.5,23.9,2.1L189.4,195.9z"/>
-		<path class="st1" d="M239.4,235.4c13.9-11.4,16-31.9,4.5-45.8c-11.4-13.9-31.9-16-45.8-4.5L239.4,235.4z"/>
-		<line class="st1" x1="198.1" y1="185.2" x2="194.2" y2="188.4"/>
-		<line class="st1" x1="239.5" y1="235.4" x2="235.4" y2="238.6"/>
-	</g>
-	<g id="_x32_">
-		<path class="st1" d="M187.8,199.9c-5.8,17,3.2,35.5,20.2,41.3c7.8,2.7,16.4,2.3,24-1.1L187.8,199.9z"/>
-		<path class="st1" d="M242.5,232.4c12.3-13.1,11.6-33.7-1.6-46c-13.1-12.3-33.7-11.6-46,1.6L242.5,232.4z"/>
-		<line class="st1" x1="195" y1="188.1" x2="191.5" y2="191.8"/>
-		<line class="st1" x1="242.6" y1="232.4" x2="239" y2="236.1"/>
-	</g>
-	<g id="_x31_">
-		<line class="st2" x1="231.4" y1="240.3" x2="226.9" y2="242.2"/>
-		<line class="st2" x1="206.4" y1="180.3" x2="201.9" y2="182.3"/>
-		<path class="st1" d="M194.6,188.1c-12.5,12.9-12.1,33.5,0.9,46c6,5.8,13.9,9,22.2,9.1L194.6,188.1z"/>
-		<path class="st1" d="M231.7,240.3c16.6-7,24.3-26,17.4-42.6c-7-16.6-26-24.3-42.6-17.4L231.7,240.3z"/>
-	</g>
-	<g id="_x30_">
-		<path class="st1" d="M205.3,180.7c-16.4,7.3-23.8,26.5-16.5,42.9c3.4,7.6,9.5,13.6,17.1,16.8L205.3,180.7z"/>
-		<path class="st1" d="M218.9,242.9c18,0,32.5-14.6,32.5-32.5s-14.6-32.5-32.5-32.5V242.9z"/>
-		<line class="st1" x1="218.9" y1="177.9" x2="213.7" y2="177.9"/>
-		<line class="st1" x1="218.8" y1="242.9" x2="213.7" y2="242.9"/>
-	</g>
+<g id="_x36_">
+	<path class="st0" d="M192.5,191.1c-10.4,14.6-6.6,34.9,8.1,45.2c6.7,4.8,13.6,6.8,21.8,5.7L192.5,191.1z"/>
+	<path class="st0" d="M235,238.2c15.6-9.1,20.7-29,11.6-44.5c-9.1-15.6-29-20.7-44.5-11.6L235,238.2z"/>
+	<line class="st0" x1="202.2" y1="182.2" x2="197.8" y2="184.7"/>
+	<line class="st0" x1="235.2" y1="238.3" x2="230.7" y2="240.8"/>
 </g>
-<g id="Layer_4">
-	<path class="st3" d="M188.2,199.4c-5.8,17,3.6,35.3,20.7,41c7.8,2.7,15,2.6,22.5-0.8L188.2,199.4z"/>
-	<path class="st4" d="M242.4,232.4c12.3-13.2,11.6-33.7-1.6-46s-33.7-11.6-46,1.6L242.4,232.4z"/>
-	<line class="st4" x1="195" y1="188.1" x2="191.5" y2="191.8"/>
-	<line class="st4" x1="242.6" y1="232.4" x2="239" y2="236.1"/>
+<g id="_x35_" class="st1">
+	<path class="st2" d="M188.2,199.4c-5.8,17,3.6,35.3,20.7,41c7.8,2.7,15,2.6,22.5-0.8L188.2,199.4z"/>
+	<path class="st2" d="M242.4,232.4c12.3-13.2,11.6-33.7-1.6-46s-33.7-11.6-46,1.6L242.4,232.4z"/>
+	<line class="st2" x1="195" y1="188.1" x2="191.5" y2="191.8"/>
+	<line class="st2" x1="242.6" y1="232.4" x2="239" y2="236.1"/>
+</g>
+<g id="_x34__1_" class="st1">
+	<path class="st2" d="M189.9,194.2c-9,15.5-3.4,35.3,12.2,44.3c7.1,4.2,14.2,5.5,22.2,3.6L189.9,194.2z"/>
+	<path class="st2" d="M237.7,236.7c14.6-10.5,18-30.8,7.5-45.4s-30.8-18-45.4-7.5L237.7,236.7z"/>
+	<line class="st2" x1="199.8" y1="183.9" x2="195.7" y2="186.9"/>
+	<line class="st2" x1="237.8" y1="236.7" x2="233.5" y2="239.6"/>
+</g>
+<g id="_x33_" class="st1">
+	<path class="st2" d="M189.4,195.9c-8,16.1-1.5,35.6,14.6,43.6c7.4,3.7,16,4.5,23.9,2.1L189.4,195.9z"/>
+	<path class="st2" d="M239.4,235.4c13.9-11.4,16-31.9,4.5-45.8c-11.4-13.9-31.9-16-45.8-4.5L239.4,235.4z"/>
+	<line class="st2" x1="198.1" y1="185.2" x2="194.2" y2="188.4"/>
+	<line class="st2" x1="239.5" y1="235.4" x2="235.4" y2="238.6"/>
+</g>
+<g id="_x32_" class="st1">
+	<path class="st2" d="M187.8,199.9c-5.8,17,3.2,35.5,20.2,41.3c7.8,2.7,16.4,2.3,24-1.1L187.8,199.9z"/>
+	<path class="st2" d="M242.5,232.4c12.3-13.1,11.6-33.7-1.6-46c-13.1-12.3-33.7-11.6-46,1.6L242.5,232.4z"/>
+	<line class="st2" x1="195" y1="188.1" x2="191.5" y2="191.8"/>
+	<line class="st2" x1="242.6" y1="232.4" x2="239" y2="236.1"/>
+</g>
+<g id="_x31_" class="st1">
+	<line class="st3" x1="231.4" y1="240.3" x2="226.9" y2="242.2"/>
+	<line class="st3" x1="206.4" y1="180.3" x2="201.9" y2="182.3"/>
+	<path class="st2" d="M194.6,188.1c-12.5,12.9-12.1,33.5,0.9,46c6,5.8,13.9,9,22.2,9.1L194.6,188.1z"/>
+	<path class="st2" d="M231.7,240.3c16.6-7,24.3-26,17.4-42.6c-7-16.6-26-24.3-42.6-17.4L231.7,240.3z"/>
+</g>
+<g id="_x30_" class="st1">
+	<path class="st2" d="M205.3,180.7c-16.4,7.3-23.8,26.5-16.5,42.9c3.4,7.6,9.5,13.6,17.1,16.8L205.3,180.7z"/>
+	<path class="st2" d="M218.9,242.9c18,0,32.5-14.6,32.5-32.5s-14.6-32.5-32.5-32.5V242.9z"/>
+	<line class="st2" x1="218.9" y1="177.9" x2="213.7" y2="177.9"/>
+	<line class="st2" x1="218.8" y1="242.9" x2="213.7" y2="242.9"/>
 </g>
 </svg>

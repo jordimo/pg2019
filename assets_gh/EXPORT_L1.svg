@@ -11,15 +11,20 @@
 	.st5{display:none;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
 	.st6{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
 </style>
-<g id="_x35_">
+<g id="_x36_">
 	<polyline class="st0" points="340.2,331.1 393.8,331.1 393.8,326.1 	"/>
-	<polyline class="st0" points="374.3,331 374.3,266 380.1,266 	"/>
+	<polyline class="st0" points="364.1,331 364.1,266 369.9,266 	"/>
 	<polyline class="st0" points="340.2,266 345.2,266 345.2,297.6 359.2,331 	"/>
 </g>
+<g id="_x35_" class="st1">
+	<polyline class="st2" points="340.2,331.1 393.8,331.1 393.8,326.1 	"/>
+	<polyline class="st2" points="374.3,331 374.3,266 380.1,266 	"/>
+	<polyline class="st2" points="340.2,266 345.2,266 345.2,297.6 359.2,331 	"/>
+</g>
 <g id="_x34__1_" class="st1">
-	<polyline class="st0" points="340.2,331.1 393.8,331.1 393.8,326.1 	"/>
+	<polyline class="st2" points="340.2,331.1 393.8,331.1 393.8,326.1 	"/>
 	<polyline class="st2" points="367.2,331 367.2,266 373,266 	"/>
-	<polyline class="st0" points="340.2,266 345.2,266 345.2,297.6 359.2,331 	"/>
+	<polyline class="st2" points="340.2,266 345.2,266 345.2,297.6 359.2,331 	"/>
 </g>
 <g id="_x33_" class="st1">
 	<g id="_x33__1_" class="st3">
