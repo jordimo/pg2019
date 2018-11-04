@@ -4,51 +4,55 @@
 	 viewBox="0 0 401.2 421.2" style="enable-background:new 0 0 401.2 421.2;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
-	.st1{display:none;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
-	.st2{display:none;}
-	.st3{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
-	.st4{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
-	.st5{display:inline;}
-	.st6{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st1{display:none;}
+	.st2{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st3{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
+	.st4{display:inline;}
+	.st5{fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;}
 </style>
-<g id="_x36_">
-	<polyline class="st0" points="264.9,330.5 273.6,309.7 316.6,309.7 325.3,330.5 	"/>
-	<line class="st1" x1="289.5" y1="309.9" x2="280.9" y2="330.5"/>
-	<polyline class="st1" points="292.1,265.5 281.4,291 308.8,291 303.1,277.5 297.5,291 	"/>
+<g id="_x37_">
+	<polyline class="st0" points="264.7,331 274.4,307.8 315.4,307.8 325.1,331 	"/>
+	<line class="st0" x1="290.4" y1="307.8" x2="280.9" y2="330.5"/>
+	<polyline class="st0" points="291.9,266 280.3,293.8 309.5,293.8 303,277.8 296.3,293.8 	"/>
 </g>
-<g id="_x35_" class="st2">
-	<polyline class="st3" points="264.9,330.5 271.4,314.9 318.7,314.9 325.3,330.5 	"/>
-	<line class="st0" x1="287.4" y1="314.9" x2="280.9" y2="330.5"/>
-	<polyline class="st0" points="292.1,265.5 283.6,285.8 306.6,285.9 303.1,277.5 299.6,285.9 	"/>
+<g id="_x36_" class="st1">
+	<polyline class="st2" points="264.9,330.5 273.6,309.7 316.6,309.7 325.3,330.5 	"/>
+	<line class="st0" x1="289.5" y1="309.9" x2="280.9" y2="330.5"/>
+	<polyline class="st0" points="292.1,265.5 281.4,291 308.8,291 303.1,277.5 297.5,291 	"/>
 </g>
-<g id="_x34__1_" class="st2">
-	<polyline class="st3" points="265.2,331.8 272.7,313.8 318,313.8 325.6,331.8 	"/>
-	<line class="st3" x1="288.7" y1="313.8" x2="281.2" y2="331.8"/>
-	<polyline class="st3" points="292.4,266.8 282.8,289.7 307.9,289.7 303.4,278.8 298.8,289.7 	"/>
+<g id="_x35_" class="st1">
+	<polyline class="st2" points="264.9,330.5 271.4,314.9 318.7,314.9 325.3,330.5 	"/>
+	<line class="st2" x1="287.4" y1="314.9" x2="280.9" y2="330.5"/>
+	<polyline class="st2" points="292.1,265.5 283.6,285.8 306.6,285.9 303.1,277.5 299.6,285.9 	"/>
 </g>
-<g id="_x33_" class="st2">
-	<line class="st3" x1="289.5" y1="311.7" x2="281.5" y2="330.8"/>
-	<polyline class="st3" points="265.6,330.8 273.6,311.7 317.9,311.7 325.9,330.8 	"/>
-	<polyline class="st3" points="298.7,289.7 303.7,277.8 308.8,289.7 282.8,289.7 292.8,265.8 	"/>
+<g id="_x34__1_" class="st1">
+	<polyline class="st2" points="265.2,331.8 272.7,313.8 318,313.8 325.6,331.8 	"/>
+	<line class="st2" x1="288.7" y1="313.8" x2="281.2" y2="331.8"/>
+	<polyline class="st2" points="292.4,266.8 282.8,289.7 307.9,289.7 303.4,278.8 298.8,289.7 	"/>
 </g>
-<g id="_x32_" class="st2">
-	<polyline class="st4" points="264.9,331 271.5,315.4 318.8,315.4 325.3,331 	"/>
-	<line class="st4" x1="287.4" y1="315.4" x2="280.9" y2="331"/>
-	<polyline class="st4" points="292.1,266 283.6,286.4 306.6,286.4 303.1,278 299.6,286.4 	"/>
+<g id="_x33_" class="st1">
+	<line class="st2" x1="289.5" y1="311.7" x2="281.5" y2="330.8"/>
+	<polyline class="st2" points="265.6,330.8 273.6,311.7 317.9,311.7 325.9,330.8 	"/>
+	<polyline class="st2" points="298.7,289.7 303.7,277.8 308.8,289.7 282.8,289.7 292.8,265.8 	"/>
 </g>
-<g id="_x31_" class="st2">
-	<polyline class="st3" points="265.1,331 274.9,307.8 315.9,307.8 325.5,331 	"/>
-	<line class="st3" x1="290.8" y1="307.8" x2="281.1" y2="331"/>
-	<polyline class="st3" points="292.4,266 280.6,293.8 295.2,293.8 310,293.8 303.2,277.9 296.6,293.8 	"/>
+<g id="_x32_" class="st1">
+	<polyline class="st3" points="264.9,331 271.5,315.4 318.8,315.4 325.3,331 	"/>
+	<line class="st3" x1="287.4" y1="315.4" x2="280.9" y2="331"/>
+	<polyline class="st3" points="292.1,266 283.6,286.4 306.6,286.4 303.1,278 299.6,286.4 	"/>
 </g>
-<g id="_x30_" class="st2">
-	<polyline class="st3" points="265.1,331 277.6,301 312.9,300.7 325.5,331 	"/>
-	<polyline class="st3" points="292.4,266 277.6,301 312.9,300.7 303.2,277.9 293.8,300.7 	"/>
-	<line class="st3" x1="293.8" y1="300.7" x2="281.1" y2="331"/>
-	<line class="st3" x1="287.4" y1="266" x2="303.4" y2="266"/>
-	<line class="st3" x1="319.9" y1="331" x2="329.9" y2="331"/>
-	<g id="Layer_6" class="st5">
-		<line class="st6" x1="260.1" y1="331" x2="286.1" y2="331"/>
+<g id="_x31_" class="st1">
+	<polyline class="st2" points="265.1,331 274.9,307.8 315.9,307.8 325.5,331 	"/>
+	<line class="st2" x1="290.8" y1="307.8" x2="281.1" y2="331"/>
+	<polyline class="st2" points="292.4,266 280.6,293.8 295.2,293.8 310,293.8 303.2,277.9 296.6,293.8 	"/>
+</g>
+<g id="_x30_" class="st1">
+	<polyline class="st2" points="265.1,331 277.6,301 312.9,300.7 325.5,331 	"/>
+	<polyline class="st2" points="292.4,266 277.6,301 312.9,300.7 303.2,277.9 293.8,300.7 	"/>
+	<line class="st2" x1="293.8" y1="300.7" x2="281.1" y2="331"/>
+	<line class="st2" x1="287.4" y1="266" x2="303.4" y2="266"/>
+	<line class="st2" x1="319.9" y1="331" x2="329.9" y2="331"/>
+	<g id="Layer_6" class="st4">
+		<line class="st5" x1="260.1" y1="331" x2="286.1" y2="331"/>
 	</g>
 </g>
 </svg>
