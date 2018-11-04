@@ -42,7 +42,7 @@ function setState(idState) {
 
     
     for (var i=0; i<_targets.length; i++ ) {
-        console.log(_targets[i]);
+        
         var a= anime({
             targets: _targets[i],
             d : _values[i],

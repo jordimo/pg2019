@@ -8,12 +8,19 @@
 	.st2{display:inline;}
 	.st3{display:inline;fill:none;stroke:#EE255C;stroke-width:4;stroke-linejoin:bevel;stroke-miterlimit:10;}
 </style>
-<g id="_x38_">
-	<g id="Layer_5_copy_4_">
+<g id="_x39_">
+	<g id="Layer_5_copy_5_">
+		<path class="st0" d="M249.8,2.5h-28.1c0,0,10.3,50.6,13.1,61.1c9.7-7.2,9.6-13.7,9.7-18.4V2.5"/>
+	</g>
+	<path class="st0" d="M199.8,45.2c1.8,22.3,19.2,22.1,21.9,22.3l-11.6-54.2l-2.3-10.8h-8"/>
+	<polyline class="st0" points="199.8,45.7 199.8,2.5 194.8,2.5 	"/>
+</g>
+<g id="_x38_" class="st1">
+	<g id="Layer_5_copy_4_" class="st2">
 		<path class="st0" d="M248.7,2H238c0,0-14.6,54.9-17.3,65c10.2,0.3,22.9-6.8,23-22.9V2"/>
 	</g>
-	<path class="st0" d="M199.1,44c0,11.2,6.5,17,8.7,18.5l14.9-55.8l1.2-4.6l-5,0"/>
-	<polyline class="st0" points="199.1,44.7 199.1,2 194.1,2 	"/>
+	<path class="st3" d="M199.1,44c0,11.2,6.5,17,8.7,18.5l14.9-55.8l1.2-4.6h-5"/>
+	<polyline class="st3" points="199.1,44.7 199.1,2 194.1,2 	"/>
 </g>
 <g id="_x37_" class="st1">
 	<g id="Layer_5_copy_3_" class="st2">
