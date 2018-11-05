@@ -4,13 +4,14 @@
         
     </head>
     <body>
-        <div id="controller" style="font-family: Arial, Helvetica, sans-serif">
-            <button onclick="setState(0)">Caucasian Men</button> - <button onclick="setState(1)">Average Women</button> - <button onclick="setState(2)">Hispanic Women</button> - <button onclick="setState(3)">African American Women</button> - <button onclick="setState(4)">Hispanic Men</button> -  <button onclick="setState(5)">Hispanic Women</button>-  <button onclick="setState(6)">African American Men</button> 
-            - <button onclick="setState(7)">Caucassian Women</button> - <button onclick="setState(8)">Asian women</button> - <button onclick="setState(9)">Asian men</button>
-        </div>
+       
         <div id="SVGCanvas" style="width:600px;height:400px; position:absolute; top:50%; left:50%; margin-top:-350px; margin-left:-300px">
-              
-<svg
+            <i>Buttons are only for testing.</i> <br/>
+            <button onclick="setState(0)">Caucasian Men</button>  <button onclick="setState(1)">Average Women</button>  <button onclick="setState(2)">Hispanic Women</button>  <button onclick="setState(3)">African American Women</button>  <button onclick="setState(4)">Hispanic Men</button>   <button onclick="setState(5)">Hispanic Women</button>  <button onclick="setState(6)">African American Men</button> 
+            <button onclick="setState(7)">Caucassian Women</button>  <button onclick="setState(8)">Asian women</button>  <button onclick="setState(9)">Asian men</button>
+            <br/><br/>
+            <br/><br/>
+       <svg
     xmlns="http://www.w3.org/2000/svg"
     viewBox="0 0 401 421"
     id="vector"
@@ -302,13 +303,6 @@
             stroke-width="4"
             stroke-miterlimit="10"/>
         <path
-            id="f0_1"
-            d="M 127.5 189.1 L 127.5 195.3"
-            fill="none"
-            stroke="#ee255c"
-            stroke-width="4"
-            stroke-miterlimit="10"/>
-        <path
             id="f0_2"
             d="M 176 178.1 L 127.5 178.1 L 127.5 213 L 158.1 213 L 158.1 213.2 L 127.5 213.2 L 127.5 243.1 L 122.5 243.1"
             fill="none"
@@ -560,6 +554,15 @@
             stroke="#ee255c"
             stroke-width="4"
             stroke-miterlimit="10"/>
+        <path
+            id="w0_2"
+            d="M 100.2 381.8 L 90.2 381.8"
+            fill="none"
+            stroke="#ee255c"
+            stroke-width="4"
+            stroke-linecap="square"
+            stroke-linejoin="square"
+            stroke-miterlimit="10"/>
     </g>
     <g id="o1">
         <path
@@ -667,10 +670,8 @@
 
 
 
+
         </div>
-        <script src="lib/TweenLite.min.js"></script>
-        <script src="lib/MorphSVGPlugin.min.js"></script>
-        <script src="lib/snap.svg-min.js"></script>
         <script src="lib/anime.min.js"></script>
         <script src="lib/jsonq.min.js"></script>
         <script src="controller.js"></script>

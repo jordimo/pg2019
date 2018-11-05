@@ -5,6 +5,8 @@
 var LAYERS_DICT = {};
 var STATES = {}
 var GROUPS = {}
+
+// Not sure if we changing colors
 var STATE_COLORS = [
     '#fc0',
     '#cf0',
@@ -33,12 +35,6 @@ function setState(idState) {
         _values.push(s.endValue)
     })
 
-    // console.log(STATES[idState])
-
-    // var TEST = 9
-    // _targets = _targets.slice(TEST, TEST+1)
-    // _values = _values.slice(TEST, TEST+1)
-    
 
     
     for (var i=0; i<_targets.length; i++ ) {
@@ -54,26 +50,22 @@ function setState(idState) {
 
     // change colors
 
-    var color = STATE_COLORS[idState]
+    // var color = STATE_COLORS[idState]
 
-    for (var g in GROUPS) {
-        for (var c in GROUPS[g]) {
-            var ca = anime({
-                targets: '#'+GROUPS[g][c],
-                stroke : color,
-                easing : 'easeOutQuad',
-                duration: 100,        
-            })
+    // for (var g in GROUPS) {
+    //     for (var c in GROUPS[g]) {
+    //         var ca = anime({
+    //             targets: '#'+GROUPS[g][c],
+    //             stroke : color,
+    //             easing : 'easeOutQuad',
+    //             duration: 100,        
+    //         })
 
-            // console.log(document.getElementById(GROUPS[g][c]))
-        }
-    }
+    //         // console.log(document.getElementById(GROUPS[g][c]))
+    //     }
+    // }
 }
 
-function getJsonObject(url) {
-
-    loadJSON(url, init)
-}
 
 
 function init(json_obj) {
@@ -111,7 +103,6 @@ function init(json_obj) {
         }                
     }
     
-    // console.log(GROUPS)
 
     // -------------------------------------------------------------------------------------
 
@@ -141,20 +132,6 @@ function init(json_obj) {
             })
         }
     })
-
-    // // reset svg with 0 state
-    // STATES[0].map(function(s0) {
-    //     console.log(s0.layerId, LAYERS_DICT[s0.layerId])
-    //     try {
-    //         // document.getElementById(LAYERS_DICT[s0.layerId]).setAttribute('d', s0.endValue)
-    //     }
-    //     catch(e) {
-    //         throw Error('not found ' + s0.layerId)
-    //     }
-        
-    // })
-
-    // console.log(STATES)
 }
 
 
@@ -174,4 +151,10 @@ function loadJSON(url, callback) {
   }
 
 
-  getJsonObject('./data/data7.json?'+Math.random());
+
+// ------
+// on Load
+
+
+loadJSON('./data/animation_data.json', init)
+
