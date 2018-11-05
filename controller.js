@@ -43,7 +43,7 @@ function setState(idState) {
             targets: _targets[i],
             d : _values[i],
             easing: 'easeOutQuad',
-            duration : 100,        
+            duration : 400,        
             
         })
     }
