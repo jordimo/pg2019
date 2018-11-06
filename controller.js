@@ -47,23 +47,6 @@ function setState(idState) {
             
         })
     }
-
-    // change colors
-
-    // var color = STATE_COLORS[idState]
-
-    // for (var g in GROUPS) {
-    //     for (var c in GROUPS[g]) {
-    //         var ca = anime({
-    //             targets: '#'+GROUPS[g][c],
-    //             stroke : color,
-    //             easing : 'easeOutQuad',
-    //             duration: 100,        
-    //         })
-
-    //         // console.log(document.getElementById(GROUPS[g][c]))
-    //     }
-    // }
 }
 
 
